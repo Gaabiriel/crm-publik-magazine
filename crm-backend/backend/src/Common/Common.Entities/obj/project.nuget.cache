@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8mi3kFiuS2GlbTDucZoWyC8eJSIoKpGhMSnUNFAWqw39+1qrIoriRsPtYUsQfqZttGR0sU16151NDlfuMe0UGg==",
+  "dgSpecHash": "VOaJaAm9EZtl+wC+FtFnFiNsfjK2zyuPYcAgNOE4O/3ECsMiRazjXA1aJrFZI4EtDupnYixp+Wxb6Lgy8ffUZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.Entities\\Common.Entities.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.Entities\\Common.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

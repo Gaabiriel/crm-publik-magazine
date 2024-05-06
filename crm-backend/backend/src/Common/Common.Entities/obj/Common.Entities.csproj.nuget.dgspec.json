@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.Entities\\Common.Entities.csproj": {}
+    "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.Entities\\Common.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.Entities\\Common.Entities.csproj": {
+    "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.Entities\\Common.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.Entities\\Common.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.Entities\\Common.Entities.csproj",
         "projectName": "Common.Entities",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.Entities\\Common.Entities.csproj",
+        "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.Entities\\Common.Entities.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.Entities\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,11 +56,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

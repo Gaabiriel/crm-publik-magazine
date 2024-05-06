@@ -11,10 +11,14 @@
           "Microsoft.CSharp"
         ],
         "compile": {
-          "lib/net461/AutoMapper.dll": {}
+          "lib/net461/AutoMapper.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net461/AutoMapper.dll": {}
+          "lib/net461/AutoMapper.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "CsvHelper/27.1.0": {
@@ -28,10 +32,14 @@
           "System.Threading.Tasks.Extensions": "[4.5.4]"
         },
         "compile": {
-          "lib/net47/CsvHelper.dll": {}
+          "lib/net47/CsvHelper.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net47/CsvHelper.dll": {}
+          "lib/net47/CsvHelper.dll": {
+            "related": ".xml"
+          }
         }
       },
       "EntityFramework/6.4.0": {
@@ -40,12 +48,20 @@
           "System.ComponentModel.DataAnnotations"
         ],
         "compile": {
-          "lib/net45/EntityFramework.SqlServer.dll": {},
-          "lib/net45/EntityFramework.dll": {}
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
         },
         "runtime": {
-          "lib/net45/EntityFramework.SqlServer.dll": {},
-          "lib/net45/EntityFramework.dll": {}
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
         },
         "build": {
           "buildTransitive/EntityFramework.props": {},
@@ -61,10 +77,14 @@
           "mscorlib"
         ],
         "compile": {
-          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Bcl.HashCode/1.1.1": {
@@ -77,7 +97,9 @@
           "ref/net461/Microsoft.Bcl.HashCode.dll": {}
         },
         "runtime": {
-          "lib/net461/Microsoft.Bcl.HashCode.dll": {}
+          "lib/net461/Microsoft.Bcl.HashCode.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.CSharp/4.7.0": {
@@ -98,10 +120,14 @@
           "Owin": "1.0.0"
         },
         "compile": {
-          "lib/net45/Microsoft.Owin.dll": {}
+          "lib/net45/Microsoft.Owin.dll": {
+            "related": ".XML"
+          }
         },
         "runtime": {
-          "lib/net45/Microsoft.Owin.dll": {}
+          "lib/net45/Microsoft.Owin.dll": {
+            "related": ".XML"
+          }
         }
       },
       "Owin/1.0.0": {
@@ -119,10 +145,14 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net45/System.Buffers.dll": {}
+          "ref/net45/System.Buffers.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Buffers.dll": {}
+          "lib/net461/System.Buffers.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Configuration.ConfigurationManager/4.4.1": {
@@ -134,7 +164,9 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net461/System.Configuration.ConfigurationManager.dll": {}
+          "ref/net461/System.Configuration.ConfigurationManager.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/net461/System.Configuration.ConfigurationManager.dll": {}
@@ -152,10 +184,14 @@
           "mscorlib"
         ],
         "compile": {
-          "lib/net461/System.Memory.dll": {}
+          "lib/net461/System.Memory.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Memory.dll": {}
+          "lib/net461/System.Memory.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Numerics.Vectors/4.5.0": {
@@ -165,10 +201,14 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net46/System.Numerics.Vectors.dll": {}
+          "ref/net46/System.Numerics.Vectors.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net46/System.Numerics.Vectors.dll": {}
+          "lib/net46/System.Numerics.Vectors.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Reflection.Emit/4.3.0": {
@@ -186,10 +226,14 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net461/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "ref/net461/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "lib/net461/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Threading.Tasks.Extensions/4.5.4": {
@@ -201,10 +245,14 @@
           "mscorlib"
         ],
         "compile": {
-          "lib/net461/System.Threading.Tasks.Extensions.dll": {}
+          "lib/net461/System.Threading.Tasks.Extensions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Threading.Tasks.Extensions.dll": {}
+          "lib/net461/System.Threading.Tasks.Extensions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.ValueTuple/4.5.0": {
@@ -216,7 +264,9 @@
           "ref/net47/System.ValueTuple.dll": {}
         },
         "runtime": {
-          "lib/net47/System.ValueTuple.dll": {}
+          "lib/net47/System.ValueTuple.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Unity/5.8.13": {
@@ -226,24 +276,56 @@
           "System.Reflection.Emit": "4.3.0"
         },
         "compile": {
-          "lib/net47/CommonServiceLocator.dll": {},
-          "lib/net47/Unity.Abstractions.dll": {},
-          "lib/net47/Unity.Configuration.dll": {},
-          "lib/net47/Unity.Container.dll": {},
-          "lib/net47/Unity.Interception.Configuration.dll": {},
-          "lib/net47/Unity.Interception.dll": {},
-          "lib/net47/Unity.RegistrationByConvention.dll": {},
-          "lib/net47/Unity.ServiceLocation.dll": {}
+          "lib/net47/CommonServiceLocator.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Abstractions.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Container.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.dll": {
+            "related": ".Configuration.pdb;.pdb"
+          },
+          "lib/net47/Unity.RegistrationByConvention.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.ServiceLocation.dll": {
+            "related": ".pdb"
+          }
         },
         "runtime": {
-          "lib/net47/CommonServiceLocator.dll": {},
-          "lib/net47/Unity.Abstractions.dll": {},
-          "lib/net47/Unity.Configuration.dll": {},
-          "lib/net47/Unity.Container.dll": {},
-          "lib/net47/Unity.Interception.Configuration.dll": {},
-          "lib/net47/Unity.Interception.dll": {},
-          "lib/net47/Unity.RegistrationByConvention.dll": {},
-          "lib/net47/Unity.ServiceLocation.dll": {}
+          "lib/net47/CommonServiceLocator.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Abstractions.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Container.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.dll": {
+            "related": ".Configuration.pdb;.pdb"
+          },
+          "lib/net47/Unity.RegistrationByConvention.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.ServiceLocation.dll": {
+            "related": ".pdb"
+          }
         }
       },
       "Z.EntityFramework.Extensions/7.18.3": {
@@ -252,10 +334,14 @@
           "EntityFramework": "6.0.0"
         },
         "compile": {
-          "lib/net45/Z.EntityFramework.Extensions.dll": {}
+          "lib/net45/Z.EntityFramework.Extensions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net45/Z.EntityFramework.Extensions.dll": {}
+          "lib/net45/Z.EntityFramework.Extensions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Common.DataAccess.EntityFramework/1.0.0": {
@@ -354,10 +440,14 @@
           "Microsoft.CSharp"
         ],
         "compile": {
-          "lib/net461/AutoMapper.dll": {}
+          "lib/net461/AutoMapper.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net461/AutoMapper.dll": {}
+          "lib/net461/AutoMapper.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "CsvHelper/27.1.0": {
@@ -371,10 +461,14 @@
           "System.Threading.Tasks.Extensions": "[4.5.4]"
         },
         "compile": {
-          "lib/net47/CsvHelper.dll": {}
+          "lib/net47/CsvHelper.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net47/CsvHelper.dll": {}
+          "lib/net47/CsvHelper.dll": {
+            "related": ".xml"
+          }
         }
       },
       "EntityFramework/6.4.0": {
@@ -383,12 +477,20 @@
           "System.ComponentModel.DataAnnotations"
         ],
         "compile": {
-          "lib/net45/EntityFramework.SqlServer.dll": {},
-          "lib/net45/EntityFramework.dll": {}
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
         },
         "runtime": {
-          "lib/net45/EntityFramework.SqlServer.dll": {},
-          "lib/net45/EntityFramework.dll": {}
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
         },
         "build": {
           "buildTransitive/EntityFramework.props": {},
@@ -404,10 +506,14 @@
           "mscorlib"
         ],
         "compile": {
-          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Bcl.HashCode/1.1.1": {
@@ -420,7 +526,9 @@
           "ref/net461/Microsoft.Bcl.HashCode.dll": {}
         },
         "runtime": {
-          "lib/net461/Microsoft.Bcl.HashCode.dll": {}
+          "lib/net461/Microsoft.Bcl.HashCode.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.CSharp/4.7.0": {
@@ -441,10 +549,14 @@
           "Owin": "1.0.0"
         },
         "compile": {
-          "lib/net45/Microsoft.Owin.dll": {}
+          "lib/net45/Microsoft.Owin.dll": {
+            "related": ".XML"
+          }
         },
         "runtime": {
-          "lib/net45/Microsoft.Owin.dll": {}
+          "lib/net45/Microsoft.Owin.dll": {
+            "related": ".XML"
+          }
         }
       },
       "Owin/1.0.0": {
@@ -462,10 +574,14 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net45/System.Buffers.dll": {}
+          "ref/net45/System.Buffers.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Buffers.dll": {}
+          "lib/net461/System.Buffers.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Configuration.ConfigurationManager/4.4.1": {
@@ -477,7 +593,9 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net461/System.Configuration.ConfigurationManager.dll": {}
+          "ref/net461/System.Configuration.ConfigurationManager.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/net461/System.Configuration.ConfigurationManager.dll": {}
@@ -495,10 +613,14 @@
           "mscorlib"
         ],
         "compile": {
-          "lib/net461/System.Memory.dll": {}
+          "lib/net461/System.Memory.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Memory.dll": {}
+          "lib/net461/System.Memory.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Numerics.Vectors/4.5.0": {
@@ -508,10 +630,14 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net46/System.Numerics.Vectors.dll": {}
+          "ref/net46/System.Numerics.Vectors.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net46/System.Numerics.Vectors.dll": {}
+          "lib/net46/System.Numerics.Vectors.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Reflection.Emit/4.3.0": {
@@ -529,10 +655,14 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net461/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "ref/net461/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "lib/net461/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Threading.Tasks.Extensions/4.5.4": {
@@ -544,10 +674,14 @@
           "mscorlib"
         ],
         "compile": {
-          "lib/net461/System.Threading.Tasks.Extensions.dll": {}
+          "lib/net461/System.Threading.Tasks.Extensions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Threading.Tasks.Extensions.dll": {}
+          "lib/net461/System.Threading.Tasks.Extensions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.ValueTuple/4.5.0": {
@@ -559,7 +693,9 @@
           "ref/net47/System.ValueTuple.dll": {}
         },
         "runtime": {
-          "lib/net47/System.ValueTuple.dll": {}
+          "lib/net47/System.ValueTuple.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Unity/5.8.13": {
@@ -569,24 +705,56 @@
           "System.Reflection.Emit": "4.3.0"
         },
         "compile": {
-          "lib/net47/CommonServiceLocator.dll": {},
-          "lib/net47/Unity.Abstractions.dll": {},
-          "lib/net47/Unity.Configuration.dll": {},
-          "lib/net47/Unity.Container.dll": {},
-          "lib/net47/Unity.Interception.Configuration.dll": {},
-          "lib/net47/Unity.Interception.dll": {},
-          "lib/net47/Unity.RegistrationByConvention.dll": {},
-          "lib/net47/Unity.ServiceLocation.dll": {}
+          "lib/net47/CommonServiceLocator.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Abstractions.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Container.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.dll": {
+            "related": ".Configuration.pdb;.pdb"
+          },
+          "lib/net47/Unity.RegistrationByConvention.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.ServiceLocation.dll": {
+            "related": ".pdb"
+          }
         },
         "runtime": {
-          "lib/net47/CommonServiceLocator.dll": {},
-          "lib/net47/Unity.Abstractions.dll": {},
-          "lib/net47/Unity.Configuration.dll": {},
-          "lib/net47/Unity.Container.dll": {},
-          "lib/net47/Unity.Interception.Configuration.dll": {},
-          "lib/net47/Unity.Interception.dll": {},
-          "lib/net47/Unity.RegistrationByConvention.dll": {},
-          "lib/net47/Unity.ServiceLocation.dll": {}
+          "lib/net47/CommonServiceLocator.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Abstractions.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Container.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.dll": {
+            "related": ".Configuration.pdb;.pdb"
+          },
+          "lib/net47/Unity.RegistrationByConvention.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.ServiceLocation.dll": {
+            "related": ".pdb"
+          }
         }
       },
       "Z.EntityFramework.Extensions/7.18.3": {
@@ -595,10 +763,443 @@
           "EntityFramework": "6.0.0"
         },
         "compile": {
-          "lib/net45/Z.EntityFramework.Extensions.dll": {}
+          "lib/net45/Z.EntityFramework.Extensions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net45/Z.EntityFramework.Extensions.dll": {}
+          "lib/net45/Z.EntityFramework.Extensions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Common.DataAccess.EntityFramework/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "Common.Entities": "1.0.0",
+          "Common.Services.Infrastructure": "1.0.0",
+          "EntityFramework": "6.4.0",
+          "Microsoft.Owin": "4.0.1",
+          "Owin": "1.0.0",
+          "Z.EntityFramework.Extensions": "7.18.3"
+        },
+        "compile": {
+          "bin/placeholder/Common.DataAccess.EntityFramework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.DataAccess.EntityFramework.dll": {}
+        }
+      },
+      "Common.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "CsvHelper": "27.1.0"
+        },
+        "compile": {
+          "bin/placeholder/Common.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.DTO.dll": {}
+        }
+      },
+      "Common.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Common.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.Entities.dll": {}
+        }
+      },
+      "Common.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Common.Services.Infrastructure": "1.0.0",
+          "Common.Utils": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Common.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.Services.dll": {}
+        }
+      },
+      "Common.Services.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "AutoMapper": "8.0.0",
+          "Common.DTO": "1.0.0",
+          "Common.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Common.Services.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.Services.Infrastructure.dll": {}
+        }
+      },
+      "Common.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "AutoMapper": "8.0.0",
+          "Common.Entities": "1.0.0",
+          "CsvHelper": "27.1.0"
+        },
+        "compile": {
+          "bin/placeholder/Common.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.Utils.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-arm64": {
+      "AutoMapper/8.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.ValueTuple": "4.5.0"
+        },
+        "frameworkAssemblies": [
+          "Microsoft.CSharp"
+        ],
+        "compile": {
+          "lib/net461/AutoMapper.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/AutoMapper.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "CsvHelper/27.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "[5.0.0]",
+          "Microsoft.Bcl.HashCode": "[1.1.1]",
+          "Microsoft.CSharp": "[4.7.0]",
+          "System.Buffers": "[4.5.1]",
+          "System.Memory": "[4.5.4]",
+          "System.Threading.Tasks.Extensions": "[4.5.4]"
+        },
+        "compile": {
+          "lib/net47/CsvHelper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net47/CsvHelper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "EntityFramework/6.4.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.ComponentModel.DataAnnotations"
+        ],
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/EntityFramework.props": {},
+          "buildTransitive/EntityFramework.targets": {}
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/5.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.4"
+        },
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Bcl.HashCode/1.1.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/Microsoft.Bcl.HashCode.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Microsoft.Bcl.HashCode.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp"
+        ],
+        "compile": {
+          "ref/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      },
+      "Microsoft.Owin/4.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Owin": "1.0.0"
+        },
+        "compile": {
+          "lib/net45/Microsoft.Owin.dll": {
+            "related": ".XML"
+          }
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Owin.dll": {
+            "related": ".XML"
+          }
+        }
+      },
+      "Owin/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Owin.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Owin.dll": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net45/System.Buffers.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/System.Buffers.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.Configuration.ConfigurationManager/4.4.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Configuration",
+          "System.Xml",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Configuration.ConfigurationManager.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/System.Configuration.ConfigurationManager.dll": {}
+        }
+      },
+      "System.Memory/4.5.4": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1",
+          "System.Numerics.Vectors": "4.5.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.3"
+        },
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "lib/net461/System.Memory.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/System.Memory.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Numerics",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.Numerics.Vectors.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net46/System.Numerics.Vectors.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.Reflection.Emit/4.3.0": {
+        "type": "package",
+        "compile": {
+          "ref/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.3": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.Threading.Tasks.Extensions/4.5.4": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.3"
+        },
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "lib/net461/System.Threading.Tasks.Extensions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/System.Threading.Tasks.Extensions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.ValueTuple/4.5.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net47/System.ValueTuple.dll": {}
+        },
+        "runtime": {
+          "lib/net47/System.ValueTuple.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Unity/5.8.13": {
+        "type": "package",
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "4.4.1",
+          "System.Reflection.Emit": "4.3.0"
+        },
+        "compile": {
+          "lib/net47/CommonServiceLocator.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Abstractions.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Container.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.dll": {
+            "related": ".Configuration.pdb;.pdb"
+          },
+          "lib/net47/Unity.RegistrationByConvention.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.ServiceLocation.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net47/CommonServiceLocator.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Abstractions.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Container.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.dll": {
+            "related": ".Configuration.pdb;.pdb"
+          },
+          "lib/net47/Unity.RegistrationByConvention.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.ServiceLocation.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "Z.EntityFramework.Extensions/7.18.3": {
+        "type": "package",
+        "dependencies": {
+          "EntityFramework": "6.0.0"
+        },
+        "compile": {
+          "lib/net45/Z.EntityFramework.Extensions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Z.EntityFramework.Extensions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Common.DataAccess.EntityFramework/1.0.0": {
@@ -697,10 +1298,14 @@
           "Microsoft.CSharp"
         ],
         "compile": {
-          "lib/net461/AutoMapper.dll": {}
+          "lib/net461/AutoMapper.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net461/AutoMapper.dll": {}
+          "lib/net461/AutoMapper.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "CsvHelper/27.1.0": {
@@ -714,10 +1319,14 @@
           "System.Threading.Tasks.Extensions": "[4.5.4]"
         },
         "compile": {
-          "lib/net47/CsvHelper.dll": {}
+          "lib/net47/CsvHelper.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net47/CsvHelper.dll": {}
+          "lib/net47/CsvHelper.dll": {
+            "related": ".xml"
+          }
         }
       },
       "EntityFramework/6.4.0": {
@@ -726,12 +1335,20 @@
           "System.ComponentModel.DataAnnotations"
         ],
         "compile": {
-          "lib/net45/EntityFramework.SqlServer.dll": {},
-          "lib/net45/EntityFramework.dll": {}
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
         },
         "runtime": {
-          "lib/net45/EntityFramework.SqlServer.dll": {},
-          "lib/net45/EntityFramework.dll": {}
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
         },
         "build": {
           "buildTransitive/EntityFramework.props": {},
@@ -747,10 +1364,14 @@
           "mscorlib"
         ],
         "compile": {
-          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Bcl.HashCode/1.1.1": {
@@ -763,7 +1384,9 @@
           "ref/net461/Microsoft.Bcl.HashCode.dll": {}
         },
         "runtime": {
-          "lib/net461/Microsoft.Bcl.HashCode.dll": {}
+          "lib/net461/Microsoft.Bcl.HashCode.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.CSharp/4.7.0": {
@@ -784,10 +1407,14 @@
           "Owin": "1.0.0"
         },
         "compile": {
-          "lib/net45/Microsoft.Owin.dll": {}
+          "lib/net45/Microsoft.Owin.dll": {
+            "related": ".XML"
+          }
         },
         "runtime": {
-          "lib/net45/Microsoft.Owin.dll": {}
+          "lib/net45/Microsoft.Owin.dll": {
+            "related": ".XML"
+          }
         }
       },
       "Owin/1.0.0": {
@@ -805,10 +1432,14 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net45/System.Buffers.dll": {}
+          "ref/net45/System.Buffers.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Buffers.dll": {}
+          "lib/net461/System.Buffers.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Configuration.ConfigurationManager/4.4.1": {
@@ -820,7 +1451,9 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net461/System.Configuration.ConfigurationManager.dll": {}
+          "ref/net461/System.Configuration.ConfigurationManager.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/net461/System.Configuration.ConfigurationManager.dll": {}
@@ -838,10 +1471,14 @@
           "mscorlib"
         ],
         "compile": {
-          "lib/net461/System.Memory.dll": {}
+          "lib/net461/System.Memory.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Memory.dll": {}
+          "lib/net461/System.Memory.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Numerics.Vectors/4.5.0": {
@@ -851,10 +1488,14 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net46/System.Numerics.Vectors.dll": {}
+          "ref/net46/System.Numerics.Vectors.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net46/System.Numerics.Vectors.dll": {}
+          "lib/net46/System.Numerics.Vectors.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Reflection.Emit/4.3.0": {
@@ -872,10 +1513,14 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net461/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "ref/net461/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "lib/net461/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Threading.Tasks.Extensions/4.5.4": {
@@ -887,10 +1532,14 @@
           "mscorlib"
         ],
         "compile": {
-          "lib/net461/System.Threading.Tasks.Extensions.dll": {}
+          "lib/net461/System.Threading.Tasks.Extensions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Threading.Tasks.Extensions.dll": {}
+          "lib/net461/System.Threading.Tasks.Extensions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.ValueTuple/4.5.0": {
@@ -902,7 +1551,9 @@
           "ref/net47/System.ValueTuple.dll": {}
         },
         "runtime": {
-          "lib/net47/System.ValueTuple.dll": {}
+          "lib/net47/System.ValueTuple.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Unity/5.8.13": {
@@ -912,24 +1563,56 @@
           "System.Reflection.Emit": "4.3.0"
         },
         "compile": {
-          "lib/net47/CommonServiceLocator.dll": {},
-          "lib/net47/Unity.Abstractions.dll": {},
-          "lib/net47/Unity.Configuration.dll": {},
-          "lib/net47/Unity.Container.dll": {},
-          "lib/net47/Unity.Interception.Configuration.dll": {},
-          "lib/net47/Unity.Interception.dll": {},
-          "lib/net47/Unity.RegistrationByConvention.dll": {},
-          "lib/net47/Unity.ServiceLocation.dll": {}
+          "lib/net47/CommonServiceLocator.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Abstractions.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Container.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.dll": {
+            "related": ".Configuration.pdb;.pdb"
+          },
+          "lib/net47/Unity.RegistrationByConvention.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.ServiceLocation.dll": {
+            "related": ".pdb"
+          }
         },
         "runtime": {
-          "lib/net47/CommonServiceLocator.dll": {},
-          "lib/net47/Unity.Abstractions.dll": {},
-          "lib/net47/Unity.Configuration.dll": {},
-          "lib/net47/Unity.Container.dll": {},
-          "lib/net47/Unity.Interception.Configuration.dll": {},
-          "lib/net47/Unity.Interception.dll": {},
-          "lib/net47/Unity.RegistrationByConvention.dll": {},
-          "lib/net47/Unity.ServiceLocation.dll": {}
+          "lib/net47/CommonServiceLocator.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Abstractions.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Container.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.dll": {
+            "related": ".Configuration.pdb;.pdb"
+          },
+          "lib/net47/Unity.RegistrationByConvention.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.ServiceLocation.dll": {
+            "related": ".pdb"
+          }
         }
       },
       "Z.EntityFramework.Extensions/7.18.3": {
@@ -938,10 +1621,14 @@
           "EntityFramework": "6.0.0"
         },
         "compile": {
-          "lib/net45/Z.EntityFramework.Extensions.dll": {}
+          "lib/net45/Z.EntityFramework.Extensions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net45/Z.EntityFramework.Extensions.dll": {}
+          "lib/net45/Z.EntityFramework.Extensions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Common.DataAccess.EntityFramework/1.0.0": {
@@ -1040,10 +1727,14 @@
           "Microsoft.CSharp"
         ],
         "compile": {
-          "lib/net461/AutoMapper.dll": {}
+          "lib/net461/AutoMapper.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net461/AutoMapper.dll": {}
+          "lib/net461/AutoMapper.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "CsvHelper/27.1.0": {
@@ -1057,10 +1748,14 @@
           "System.Threading.Tasks.Extensions": "[4.5.4]"
         },
         "compile": {
-          "lib/net47/CsvHelper.dll": {}
+          "lib/net47/CsvHelper.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net47/CsvHelper.dll": {}
+          "lib/net47/CsvHelper.dll": {
+            "related": ".xml"
+          }
         }
       },
       "EntityFramework/6.4.0": {
@@ -1069,12 +1764,20 @@
           "System.ComponentModel.DataAnnotations"
         ],
         "compile": {
-          "lib/net45/EntityFramework.SqlServer.dll": {},
-          "lib/net45/EntityFramework.dll": {}
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
         },
         "runtime": {
-          "lib/net45/EntityFramework.SqlServer.dll": {},
-          "lib/net45/EntityFramework.dll": {}
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "related": ".SqlServer.xml;.xml"
+          }
         },
         "build": {
           "buildTransitive/EntityFramework.props": {},
@@ -1090,10 +1793,14 @@
           "mscorlib"
         ],
         "compile": {
-          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Bcl.HashCode/1.1.1": {
@@ -1106,7 +1813,9 @@
           "ref/net461/Microsoft.Bcl.HashCode.dll": {}
         },
         "runtime": {
-          "lib/net461/Microsoft.Bcl.HashCode.dll": {}
+          "lib/net461/Microsoft.Bcl.HashCode.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.CSharp/4.7.0": {
@@ -1127,10 +1836,14 @@
           "Owin": "1.0.0"
         },
         "compile": {
-          "lib/net45/Microsoft.Owin.dll": {}
+          "lib/net45/Microsoft.Owin.dll": {
+            "related": ".XML"
+          }
         },
         "runtime": {
-          "lib/net45/Microsoft.Owin.dll": {}
+          "lib/net45/Microsoft.Owin.dll": {
+            "related": ".XML"
+          }
         }
       },
       "Owin/1.0.0": {
@@ -1148,10 +1861,14 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net45/System.Buffers.dll": {}
+          "ref/net45/System.Buffers.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Buffers.dll": {}
+          "lib/net461/System.Buffers.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Configuration.ConfigurationManager/4.4.1": {
@@ -1163,7 +1880,9 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net461/System.Configuration.ConfigurationManager.dll": {}
+          "ref/net461/System.Configuration.ConfigurationManager.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/net461/System.Configuration.ConfigurationManager.dll": {}
@@ -1181,10 +1900,14 @@
           "mscorlib"
         ],
         "compile": {
-          "lib/net461/System.Memory.dll": {}
+          "lib/net461/System.Memory.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Memory.dll": {}
+          "lib/net461/System.Memory.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Numerics.Vectors/4.5.0": {
@@ -1194,10 +1917,14 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net46/System.Numerics.Vectors.dll": {}
+          "ref/net46/System.Numerics.Vectors.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net46/System.Numerics.Vectors.dll": {}
+          "lib/net46/System.Numerics.Vectors.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Reflection.Emit/4.3.0": {
@@ -1215,10 +1942,14 @@
           "mscorlib"
         ],
         "compile": {
-          "ref/net461/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "ref/net461/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "lib/net461/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Threading.Tasks.Extensions/4.5.4": {
@@ -1230,10 +1961,14 @@
           "mscorlib"
         ],
         "compile": {
-          "lib/net461/System.Threading.Tasks.Extensions.dll": {}
+          "lib/net461/System.Threading.Tasks.Extensions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/System.Threading.Tasks.Extensions.dll": {}
+          "lib/net461/System.Threading.Tasks.Extensions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.ValueTuple/4.5.0": {
@@ -1245,7 +1980,9 @@
           "ref/net47/System.ValueTuple.dll": {}
         },
         "runtime": {
-          "lib/net47/System.ValueTuple.dll": {}
+          "lib/net47/System.ValueTuple.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Unity/5.8.13": {
@@ -1255,24 +1992,56 @@
           "System.Reflection.Emit": "4.3.0"
         },
         "compile": {
-          "lib/net47/CommonServiceLocator.dll": {},
-          "lib/net47/Unity.Abstractions.dll": {},
-          "lib/net47/Unity.Configuration.dll": {},
-          "lib/net47/Unity.Container.dll": {},
-          "lib/net47/Unity.Interception.Configuration.dll": {},
-          "lib/net47/Unity.Interception.dll": {},
-          "lib/net47/Unity.RegistrationByConvention.dll": {},
-          "lib/net47/Unity.ServiceLocation.dll": {}
+          "lib/net47/CommonServiceLocator.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Abstractions.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Container.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.dll": {
+            "related": ".Configuration.pdb;.pdb"
+          },
+          "lib/net47/Unity.RegistrationByConvention.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.ServiceLocation.dll": {
+            "related": ".pdb"
+          }
         },
         "runtime": {
-          "lib/net47/CommonServiceLocator.dll": {},
-          "lib/net47/Unity.Abstractions.dll": {},
-          "lib/net47/Unity.Configuration.dll": {},
-          "lib/net47/Unity.Container.dll": {},
-          "lib/net47/Unity.Interception.Configuration.dll": {},
-          "lib/net47/Unity.Interception.dll": {},
-          "lib/net47/Unity.RegistrationByConvention.dll": {},
-          "lib/net47/Unity.ServiceLocation.dll": {}
+          "lib/net47/CommonServiceLocator.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Abstractions.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Container.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.Configuration.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.Interception.dll": {
+            "related": ".Configuration.pdb;.pdb"
+          },
+          "lib/net47/Unity.RegistrationByConvention.dll": {
+            "related": ".pdb"
+          },
+          "lib/net47/Unity.ServiceLocation.dll": {
+            "related": ".pdb"
+          }
         }
       },
       "Z.EntityFramework.Extensions/7.18.3": {
@@ -1281,10 +2050,14 @@
           "EntityFramework": "6.0.0"
         },
         "compile": {
-          "lib/net45/Z.EntityFramework.Extensions.dll": {}
+          "lib/net45/Z.EntityFramework.Extensions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net45/Z.EntityFramework.Extensions.dll": {}
+          "lib/net45/Z.EntityFramework.Extensions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Common.DataAccess.EntityFramework/1.0.0": {
@@ -2087,11 +2860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.DIContainer\\Common.DIContainer.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.DIContainer\\Common.DIContainer.csproj",
       "projectName": "Common.DIContainer",
-      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.DIContainer\\Common.DIContainer.csproj",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.DIContainer\\Common.DIContainer.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.DIContainer\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.DIContainer\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2108,20 +2881,20 @@
       "frameworks": {
         "net48": {
           "projectReferences": {
-            "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.DataAccess.EntityFramework\\Common.DataAccess.EntityFramework.csproj": {
-              "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.DataAccess.EntityFramework\\Common.DataAccess.EntityFramework.csproj"
+            "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.DataAccess.EntityFramework\\Common.DataAccess.EntityFramework.csproj": {
+              "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.DataAccess.EntityFramework\\Common.DataAccess.EntityFramework.csproj"
             },
-            "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.Entities\\Common.Entities.csproj": {
-              "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.Entities\\Common.Entities.csproj"
+            "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.Entities\\Common.Entities.csproj": {
+              "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.Entities\\Common.Entities.csproj"
             },
-            "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.Services.Infrastructure\\Common.Services.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.Services.Infrastructure\\Common.Services.Infrastructure.csproj"
+            "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.Services.Infrastructure\\Common.Services.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.Services.Infrastructure\\Common.Services.Infrastructure.csproj"
             },
-            "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.Services\\Common.Services.csproj": {
-              "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.Services\\Common.Services.csproj"
+            "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.Services\\Common.Services.csproj": {
+              "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.Services\\Common.Services.csproj"
             },
-            "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.Utils\\Common.Utils.csproj": {
-              "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.Utils\\Common.Utils.csproj"
+            "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.Utils\\Common.Utils.csproj": {
+              "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.Utils\\Common.Utils.csproj"
             }
           }
         }
@@ -2139,6 +2912,9 @@
     },
     "runtimes": {
       "win": {
+        "#import": []
+      },
+      "win-arm64": {
         "#import": []
       },
       "win-x64": {

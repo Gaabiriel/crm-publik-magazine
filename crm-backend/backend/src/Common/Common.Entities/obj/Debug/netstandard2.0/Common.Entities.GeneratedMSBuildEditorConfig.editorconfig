@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = Common.Entities
-build_property.ProjectDir = C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\
+build_property.ProjectDir = C:\Users\gabri\OneDrive\Documentos\GitHub\crm-publik-magazine\crm-backend\backend\src\Common\Common.Entities\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

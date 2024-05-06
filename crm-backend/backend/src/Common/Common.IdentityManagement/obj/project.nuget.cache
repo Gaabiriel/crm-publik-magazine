@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HFtOyV9g9mqz7IWtmSmKUfvB0d2Pw90x8hbX9Oo88Fb6nbQ3D1u/1r6hGDgXU49TtfZ5qM/nU+/JYbN3hSxR7A==",
+  "dgSpecHash": "N866angdrsHyNLIF2rgRpcrkrUWusLLnPzK8Uxme9zpZMq5C0qoV5apOgyomX1UWrTnqvgHc1xDNKVD0V4UMdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.IdentityManagement\\Common.IdentityManagement.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.IdentityManagement\\Common.IdentityManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\csvhelper\\27.1.0\\csvhelper.27.1.0.nupkg.sha512",

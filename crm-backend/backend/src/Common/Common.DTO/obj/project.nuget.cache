@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+qStaarV781LzRDvB9BclwSVTlMyPVXEsmdYbGOfl7F6JeXOl2c9iuvkbtLlon6Vz/10MIod38eC+fMitv1JfA==",
+  "dgSpecHash": "7to8g/+MOW8HcVN1LTFgvXXmTVFhpkznx2aPvgYKMOJ/V63ecz0rrjbaZ8xzkLSgmtKZlDMaqM0xd8UyVw5FRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.DTO\\Common.DTO.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.DTO\\Common.DTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\csvhelper\\27.1.0\\csvhelper.27.1.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",

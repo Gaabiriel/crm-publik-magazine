@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WTMOGIblILGgtB+4SafOJvWqRVKmkl/BlPOT0BaoWGwETiEUd8y8pfnNAC7XeJJBGRCESS/GrYaCvq1JO1f7bA==",
+  "dgSpecHash": "MU1qPzwcVz69lSZAgDwJ5G3fBiBot30WuWAT1GyPaXd8dSycY8rcMCdC24y+k2p3hqeFLXoU3+SM3nqIyXx7cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Jobs\\Pai\\CRM\\crm-backend\\backend\\src\\Common\\Common.DIContainer\\Common.DIContainer.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\crm-publik-magazine\\crm-backend\\backend\\src\\Common\\Common.DIContainer\\Common.DIContainer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\csvhelper\\27.1.0\\csvhelper.27.1.0.nupkg.sha512",
