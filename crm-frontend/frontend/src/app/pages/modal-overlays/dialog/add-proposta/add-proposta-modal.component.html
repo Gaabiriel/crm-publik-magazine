@@ -1,0 +1,61 @@
+<nb-card>
+  <nb-card-header>{{ title }}</nb-card-header>
+  <nb-card-body>
+    <div [formGroup]="propostaForm" class="container">
+      <div class="row">
+        <nb-card-body>
+          <div class="row">
+            <div class="col-sm-6">
+              <div class="form-group">
+                <label for="status">Status</label>
+                <br>
+                <nb-select formControlName="status" placeholder="Status">
+                  <nb-option *ngFor="let status of statusProposta" [value]="status.name">
+                    {{ status.name }}
+                  </nb-option>
+                </nb-select>
+                <ngx-validation-message label="Status da Proposta" [showRequired]="status?.errors?.required">
+                </ngx-validation-message>
+              </div>
+            </div>
+            <div class="col-sm-3">
+              <div class="form-group">
+                <label for="isAgencia">Tem Agência?</label>
+                <br>
+                <div class="inline">
+                  <span>Não</span>
+                  &nbsp;
+                  <nb-toggle formControlName="isAgencia"></nb-toggle>
+
+                  &nbsp;
+                  <span> Sim</span>
+                </div>
+              </div>
+            </div>
+
+
+
+          </div>
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="form-group">
+                <label for="descricao">Descrição da Proposta</label>
+                <textarea rows="10" nbInput fullWidth id="descricao" formControlName="descricao"
+                  [status]="(descricao?.hasError('minlength') || descricao?.hasError('maxlength')) ? 'danger' : 'primary'"
+                  class="form-control" placeholder="Descrição"></textarea>
+              </div>
+            </div>
+          </div>
+
+        </nb-card-body>
+
+      </div>
+
+    </div>
+
+  </nb-card-body>
+  <nb-card-footer>
+    <button nbButton status="primary" (click)="save()" hero>Salvar</button>
+    <button nbButton (click)="dismiss()" hero>Voltar</button>
+  </nb-card-footer>
+</nb-card>

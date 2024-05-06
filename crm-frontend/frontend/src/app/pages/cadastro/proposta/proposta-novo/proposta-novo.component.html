@@ -1,0 +1,17 @@
+<div class="container">
+  <ng2-smart-table class="example-smart-table" [settings]="propostasSettings" [source]="propostasSource"
+    (edit)="onEditPropostaRowSelect($event)" (create)="onCreatePropostaRowSelect()"
+    (delete)="onDeletePropostaRowSelect($event,dialogProposta)">
+  </ng2-smart-table>
+</div>
+
+<ng-template #dialogProposta let-data let-ref="dialogRef">
+  <nb-card>
+    <nb-card-header>Excluir Proposta</nb-card-header>
+    <nb-card-body>{{ data.title }}</nb-card-body>
+    <nb-card-footer>
+      <button nbButton status="primary" (click)="onPropostaDelete(data); ref.close();" hero>Excluir</button>
+      <button nbButton (click)="ref.close();" hero>Cancelar</button>
+    </nb-card-footer>
+  </nb-card>
+</ng-template>

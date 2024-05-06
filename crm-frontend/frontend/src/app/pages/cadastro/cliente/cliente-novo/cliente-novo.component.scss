@@ -1,0 +1,99 @@
+/*!
+ * Copyright (c) Akveo 2019. All Rights Reserved.
+ * Licensed under the Single Application / Multi Application License.
+ * See LICENSE_SINGLE_APP / LICENSE_MULTI_APP in the 'docs' folder for license information on type of purchased license.
+ */
+
+@import "~@nebular/theme/styles/core/mixins";
+@import "../../../../@theme/styles/themes";
+@include nb-install-component() {
+  button[nbButton] {
+    margin: 0.25rem;
+  }
+
+  :host {
+    button {
+      @include nb-ltr(margin, 0 0.75rem 0 0);
+      @include nb-rtl(margin, 0 0 0 0.75rem);
+    }
+  }
+
+  nb-card {
+    transform: translate3d(0, 0, 0);
+  }
+
+  ::ng-deep .example-smart-table {
+    .form-control {
+      color: nb-theme(form-control-color);
+    }
+  }
+
+  ::ng-deep .example-smart-table {
+    font-size: 5px;
+  }
+
+  :host {
+    ::ng-deep .Id .ng2-smart-title {
+      width: 10px;
+    }
+  }
+
+  :host {
+    ::ng-deep .example-smart-table {
+      font-size: 5px;
+    }
+  }
+  :host {
+    ::ng-deep .ng2-smart-table table tr th a {
+      font-family: Open Sans, sans-serif;
+      font-size: 10px;
+      line-height: 1.25rem;
+      color: #222b45;
+    }
+  }
+
+  .model-full {
+    width: 100% !important;
+    height: 100% !important;
+
+    .cdk-visually-hidden {
+      width: 99% !important;
+      height: 99% !important;
+    }
+
+    nb-dialog-container {
+      width: 100% !important;
+      height: 100% !important;
+    }
+  }
+
+  .ng2-smart-action-custom-custom {
+    padding-top: 0.8em;
+  }
+
+  :host {
+    .title {
+      margin-bottom: 2rem;
+    }
+  }
+
+  nb-checkbox {
+    margin-bottom: 1rem;
+  }
+
+  .form-inline [fullWidth] {
+    flex: 1;
+  }
+
+  .form-inline > * {
+    margin: 0 1.5rem 1.5rem 0;
+  }
+
+  nb-card.inline-form-card nb-card-body {
+    padding-bottom: 0;
+  }
+
+  .accordion-container:first-child {
+    margin-bottom: nb-theme(card-margin-bottom);
+  }
+}

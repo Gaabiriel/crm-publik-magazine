@@ -1,0 +1,24 @@
+<nb-card>
+  <nb-card-header>
+    Projetos
+  </nb-card-header>
+
+  <nb-card-body>
+    <ng2-smart-table class="example-smart-table" [settings]="settings" [source]="source"
+      (edit)="onEditRowSelect($event)" (create)="onCreateRowSelect($event)" (delete)="onDeleteRowSelect($event,dialog)">
+    </ng2-smart-table>
+  </nb-card-body>
+</nb-card>
+
+
+<ng-template #dialog let-data let-ref="dialogRef">
+  <nb-card>
+    <nb-card-header>Excluir Projeto</nb-card-header>
+    <nb-card-body>{{ data.title }}</nb-card-body>
+    <nb-card-footer>
+      <button nbButton status="primary" (click)="excluir(data.id); ref.close();" hero>Excluir</button>
+      <button nbButton (click)="ref.close();" hero>Cancelar</button>
+
+    </nb-card-footer>
+  </nb-card>
+</ng-template>

@@ -1,0 +1,10 @@
+<nb-card>
+  <nb-card-header>
+    Clientes para Aprovar
+  </nb-card-header>
+
+  <nb-card-body [nbSpinner]="loading" nbSpinnerStatus="success">
+    <ng2-smart-table class="example-smart-table" [settings]="settings" [source]="source">
+    </ng2-smart-table>
+  </nb-card-body>
+</nb-card>

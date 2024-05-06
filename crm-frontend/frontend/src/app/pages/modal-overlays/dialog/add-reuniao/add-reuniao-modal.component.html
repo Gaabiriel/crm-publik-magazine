@@ -1,0 +1,80 @@
+<nb-card>
+  <nb-card-header>{{ title }}</nb-card-header>
+  <nb-card-body>
+    <div [formGroup]="reuniaoForm" class="container">
+      <div class="col-lg-12">
+         
+        <div class="row">
+          <div *ngIf="isFromDashboard" class="col-sm-6"> 
+            <div class="form-group">
+              <label for="inputCliente">Cliente</label>
+              <br>
+              <input (onload)="onClienteChange()" #clienteInput nbInput type="text" (input)="onClienteChange()"
+                placeholder="Cliente" [nbAutocomplete]="autoCliente" />
+              <nb-autocomplete [handleDisplayFn]="viewClienteHandle" #autoCliente
+                (selectedChange)="onClienteSelectionChange($event)">
+                <nb-option *ngFor="let cliente of filteredCliente$ | async" [value]="cliente">
+                  {{ cliente.nome}}
+                </nb-option>
+              </nb-autocomplete>
+            </div> 
+          </div> 
+          <div class="col-sm-6">
+            <div class="form-group">
+              <label for="nome">Nome</label>
+              <input nbInput fullWidth id="nome" formControlName="nome"
+                [status]="(nome?.hasError('minlength') || nome?.hasError('maxlength')) ? 'danger' : 'primary'"
+                class="form-control" placeholder="Nome">
+              <ngx-validation-message label="nome" [showMinLength]="nome?.hasError('minlength')"
+                [showMaxLength]="nome?.hasError('maxlength')" minLength=3 maxLength=20>
+              </ngx-validation-message>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+
+          <div class="col-sm-6">
+            <div class="form-group">
+              <label for="comeco">Começo</label>
+              <input class="form-control" type="text" mwlFlatpickr formControlName="comeco" [locale]="'Portuguese'"
+                (ngModelChange)="refresh.next()" [altInput]="true" [convertModelValue]="true" [enableTime]="true"
+                dateFormat="d-M-y H:i:s" altFormat="j F, Y - H:i" placeholder="Sem data" [time24hr]="true" />
+              <ngx-validation-message label="comeco" [showMinLength]="comeco?.hasError('minlength')"
+                [showMaxLength]="comeco?.hasError('maxlength')" minLength=3 maxLength=20>
+              </ngx-validation-message>
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <div class="form-group">
+              <label for="fim">Fim</label>
+              <input class="form-control" type="text" mwlFlatpickr formControlName="fim"
+                (ngModelChange)="refresh.next()" [locale]="'Portuguese'" [altInput]="true" [convertModelValue]="true"
+                [enableTime]="true" dateFormat="d-M-y H:i:s" altFormat="j F, Y - H:i" placeholder="Sem data"
+                [time24hr]="true" />
+              <ngx-validation-message label="fim" [showMinLength]="fim?.hasError('minlength')"
+                [showMaxLength]="fim?.hasError('maxlength')" minLength=3 maxLength=20>
+              </ngx-validation-message>
+            </div>
+          </div>
+
+        </div>
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="form-group">
+              <label for="descricao">Descrição da Reunião</label>
+              <textarea rows="10" nbInput fullWidth id="descricao" formControlName="descricao"
+                [status]="(descricao?.hasError('minlength') || descricao?.hasError('maxlength')) ? 'danger' : 'primary'"
+                class="form-control" placeholder="Descrição"></textarea>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </nb-card-body>
+  <nb-card-footer>
+    <button nbButton status="primary" (click)="save()" hero>Salvar</button>
+    <button nbButton (click)="dismiss()" hero>Voltar</button>
+    <button nbButton status="info" (click)="flagClienteContactada()" hero>Marcar Empresa como Contactada</button>
+  </nb-card-footer>
+</nb-card>

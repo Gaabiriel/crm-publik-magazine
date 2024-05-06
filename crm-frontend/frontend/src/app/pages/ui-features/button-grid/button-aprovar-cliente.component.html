@@ -1,0 +1,17 @@
+<nb-icon (click)="onClickVisualizar()" nbTooltip="Visualizar" nbTooltipPlacement="top" nbTooltipStatus="primary"
+  icon="eye-outline" status="primary"></nb-icon>
+<nb-icon (click)="onClickAprovar(dialog)" nbTooltip="Aprovar" nbTooltipPlacement="top" nbTooltipStatus="success"
+  icon="checkmark-outline" status="success"></nb-icon>
+
+<ng-template #dialog let-data let-ref="dialogRef">
+  <nb-card>
+    <nb-card-header>Aprovar Cliente</nb-card-header>
+    <nb-card-body>{{ data.title }}</nb-card-body>
+    <nb-card-footer>
+
+      <button (click)="onAprovar(); ref.close();" nbButton status="success">Aprovar</button>
+      <button (click)="ref.close();" nbButton status="basic">Cancelar
+      </button>
+    </nb-card-footer>
+  </nb-card>
+</ng-template>

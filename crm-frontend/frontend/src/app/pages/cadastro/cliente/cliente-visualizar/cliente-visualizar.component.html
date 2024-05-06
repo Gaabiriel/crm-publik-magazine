@@ -1,0 +1,168 @@
+<div class="col-12">
+  <nb-card size="">
+    <nb-tabset fullWidth>
+      <nb-tab tabTitle="Empresa">
+        <div [formGroup]="clienteForm" class="container">
+
+          <div class="row">
+
+            <nb-card-body>
+              <div class="row">
+                <div class="col-sm-3">
+                  <div class="form-group">
+                    <label for="inputRegiao">Projeto</label>
+                    <br>
+                    <input readonly nbInput fullWidth id="projetoId" formControlName="projetoId" class="form-control"
+                      placeholder="Projeto">
+                    <!-- <nb-select disabled readonly formControlName="projetoId" placeholder="Projeto">
+                      <nb-option *ngFor="let projeto of projetos" [value]="projeto.id">
+                        {{ projeto.nome }}
+                      </nb-option>
+                    </nb-select> -->
+                  </div>
+                </div>
+                <div class="col-sm-3">
+                  <div class="row">
+                    <div class="form-group">
+                      <label for="inputCarteira">Carteira</label>
+                      <br>
+                      <input readonly nbInput fullWidth id="usuarioId" formControlName="usuarioId" class="form-control"
+                        placeholder="Carteira">
+                      <!-- <input readonly #usuariosCarteiraInput nbInput type="text" (input)="onUsuariosChange()"
+                        placeholder="Usuário" [nbAutocomplete]="autoUsuarios" />
+                      <nb-autocomplete readonly [handleDisplayFn]="viewUsuariosHandle" #autoUsuarios
+                        (selectedChange)="onUsuariosSelectionChange($event)">
+                        <nb-option *ngFor="let usuario of filteredUsuarios$" [value]="usuario">
+                          {{ usuario.fullName}}
+                        </nb-option>
+                      </nb-autocomplete> -->
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-6">
+                  <div class="form-group">
+                    <label for="nomeFantasia">Nome Fantasia</label>
+                    <input readonly nbInput fullWidth id="nomeFantasia" formControlName="nomeFantasia"
+                      class="form-control" placeholder="Nome Fantasia">
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-6">
+                  <div class="form-group">
+                    <label for="razaoSocial">Razão Social</label>
+                    <input readonly nbInput fullWidth id="razaoSocial" formControlName="razaoSocial"
+                      class="form-control" placeholder="Razão Social">
+
+                  </div>
+                </div>
+                <div class="col-sm-4">
+                  <div class="form-group">
+                    <label for="cnpj">CNPJ</label>
+                    <input readonly nbInput fullWidth id="cnpj" formControlName="cnpj" class="form-control"
+                      placeholder="CNPJ">
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+
+                <div class="col-sm-4">
+                  <div class="form-group">
+                    <label for="inscricaoEstadual">Inscrição Estadual</label>
+                    <input readonly nbInput fullWidth id="inscricaoEstadual" formControlName="inscricaoEstadual"
+                      class="form-control" placeholder="Inscrição Estadual">
+                  </div>
+                </div>
+                <div class="col-sm-4">
+                  <div class="form-group">
+                    <label for="telefoneFixo">Telefone Fixo</label>
+                    <input readonly nbInput fullWidth id="telefoneFixo" formControlName="telefoneFixo"
+                      class="form-control" placeholder="Telefone Fixo">
+                  </div>
+                </div>
+                <div class="col-sm-4">
+                  <div class="form-group">
+                    <label for="inputEmail">E-mail</label>
+                    <input readonly nbInput id="inputEmail" formControlName="email" class="form-control"
+                      placeholder="E-mail">
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-5">
+                  <div class="form-group">
+                    <label for="endereco">Endereço</label>
+                    <input readonly nbInput fullWidth id="endereco" formControlName="endereco" class="form-control"
+                      placeholder="Endereço">
+                  </div>
+                </div>
+                <div class="col-sm-3">
+                  <div class="form-group">
+                    <label for="cidade">Cidade</label>
+                    <input readonly nbInput fullWidth id="cidade" formControlName="cidade" class="form-control"
+                      placeholder="Cidade">
+                  </div>
+                </div>
+                <div class="col-sm-1">
+                  <div class="form-group">
+                    <label for="uf">UF</label>
+                    <input readonly nbInput fullWidth id="uf" formControlName="uf" class="form-control"
+                      placeholder="UF">
+                  </div>
+                </div>
+                <div class="col-sm-3">
+                  <div class="form-group">
+                    <label for="complemento">Feiras</label>
+                    <input readonly nbInput fullWidth id="complemento" formControlName="complemento"
+                      class="form-control" placeholder="Feiras">
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-2">
+                  <div class="form-group">
+                    <label for="cep">CEP</label>
+                    <input readonly nbInput fullWidth id="cep" formControlName="cep" class="form-control"
+                      placeholder="CEP">
+                  </div>
+                </div>
+                <div class="col-sm-3">
+                  <div class="form-group">
+                    <label for="site">Site</label>
+                    <input readonly nbInput fullWidth id="site" formControlName="site" class="form-control"
+                      placeholder="Site">
+                  </div>
+                </div>
+                <div class="col-sm-3">
+                  <div class="form-group">
+                    <label for="inputRegiao">Data fundação</label>
+                    <br>
+                    <input readonly formControlName="dataFundacao" nbInput placeholder="Data fundação">
+                  </div>
+                </div>
+                <div class="col-sm-2">
+                  <div class="form-group">
+                    <label for="associado">Associado</label>
+                    <input readonly nbInput fullWidth id="associado" formControlName="associado" class="form-control"
+                      placeholder="Associado">
+                  </div>
+                </div>
+                <div class="col-sm-2">
+                  <div class="form-group">
+                    <label for="atualizado">Atualizado</label>
+                    <input readonly nbInput fullWidth id="atualizado" formControlName="atualizado" class="form-control"
+                      placeholder="Atualizado">
+                  </div>
+                </div>
+              </div>
+
+            </nb-card-body>
+          </div>
+        </div>
+        <nb-card-footer>
+          <button nbButton (click)="back()" hero>Voltar</button>
+        </nb-card-footer>
+      </nb-tab>
+    </nb-tabset>
+  </nb-card>
+</div>

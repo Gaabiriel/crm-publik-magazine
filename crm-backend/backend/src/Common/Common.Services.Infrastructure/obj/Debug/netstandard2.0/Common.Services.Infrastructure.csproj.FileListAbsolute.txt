@@ -1,0 +1,96 @@
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Services.Infrastructure.deps.json
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Services.Infrastructure.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Services.Infrastructure.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Entities.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Entities.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.csprojAssemblyReference.cache
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.AssemblyInfo.cs
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.csproj.CopyComplete
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Services.Infrastructure.deps.json
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Services.Infrastructure.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Services.Infrastructure.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Entities.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Entities.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.csproj.CopyComplete
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Services.Infrastructure.deps.json
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Services.Infrastructure.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Services.Infrastructure.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Entities.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Entities.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.csproj.CopyComplete
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Services.Infrastructure.deps.json
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Services.Infrastructure.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Services.Infrastructure.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Entities.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Entities.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Services.Infrastructure.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Services.Infrastructure.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Services.Infrastructure.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Entities.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\Common.Entities.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Services.Infrastructure\obj\Debug\netstandard2.0\Common.Services.Infrastructure.pdb

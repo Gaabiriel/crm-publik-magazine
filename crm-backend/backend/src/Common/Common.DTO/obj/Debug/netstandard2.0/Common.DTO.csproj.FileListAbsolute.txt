@@ -1,0 +1,46 @@
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\bin\Debug\netstandard2.0\Common.DTO.deps.json
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\bin\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\bin\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.AssemblyInfoInputs.cache
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.AssemblyInfo.cs
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\bin\Debug\netstandard2.0\Common.DTO.deps.json
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\bin\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\bin\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\bin\Debug\netstandard2.0\Common.DTO.deps.json
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\bin\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\bin\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\bin\Debug\netstandard2.0\Common.DTO.deps.json
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\bin\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\bin\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\bin\Debug\netstandard2.0\Common.DTO.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\bin\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\bin\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DTO\obj\Debug\netstandard2.0\Common.DTO.pdb

@@ -1,0 +1,16 @@
+<div class="container" [nbSpinner]="loading" nbSpinnerStatus="success">
+  <ng2-smart-table class="example-smart-table" [settings]="contatoSettings" [source]="contatoSource"
+    (edit)="onEditRowSelect($event)" (create)="onCreateRowSelect()" (delete)="onDeleteRowSelect($event,dialog)">
+  </ng2-smart-table>
+</div>
+
+<ng-template #dialog let-data let-ref="dialogRef">
+  <nb-card>
+    <nb-card-header>Excluir Contato</nb-card-header>
+    <nb-card-body>{{ data.title }}</nb-card-body>
+    <nb-card-footer>
+      <button nbButton status="primary" (click)="onDelete(data); ref.close();" hero>Excluir</button>
+      <button nbButton (click)="ref.close();" hero>Cancelar</button> 
+    </nb-card-footer>
+  </nb-card>
+</ng-template>

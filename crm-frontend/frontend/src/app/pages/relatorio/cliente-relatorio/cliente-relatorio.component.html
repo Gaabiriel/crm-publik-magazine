@@ -1,0 +1,188 @@
+<nb-card>
+  <nb-card-header>
+    Relatórios de Cliente
+  </nb-card-header>
+
+  <nb-card-body [nbSpinner]="loading" nbSpinnerStatus="success">
+    <div class="row">
+      <div class="col-12">
+        <nb-card size="small">
+          <nb-tabset fullWidth>
+            <nb-tab tabTitle="Contatos realizados">
+              <nb-card>
+                <nb-card-header>
+                  Filtros do relatório
+                </nb-card-header>
+                <nb-card-body>
+                  <div [formGroup]="relatorioReuniaoForm" class="row">
+                    <div class="col-sm-3">
+                      <div class="row">
+                        <div class="form-group">
+                          <label for="inputPeriodo">Período</label>
+                          <br>
+                          <input required formControlName="periodoReuniao" nbInput placeholder="Período"
+                            [nbDatepicker]="rangepicker">
+                          <nb-rangepicker #rangepicker></nb-rangepicker>
+                          <ngx-validation-message label="Período" [showRequired]="periodoReuniao?.errors?.required">
+                          </ngx-validation-message>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-sm-3">
+                      <div class="form-group">
+                        <label for="perfilEmpresa">Perfil Empresa</label>
+                        <br>
+                        <nb-select required fullWidth [selected]="perfilEmpresa" formControlName="perfilEmpresa"
+                          placeholder="Perfil Empresa">
+                          <nb-option *ngFor="let perfilEmpresa of perfilEmpresaOptions" [value]="perfilEmpresa.value">
+                            {{ perfilEmpresa.value }}
+                          </nb-option>
+                        </nb-select>
+                        <ngx-validation-message label="Perfil Empresa" [showRequired]="perfilEmpresa?.errors?.required">
+                        </ngx-validation-message>
+                      </div>
+                    </div>
+                    <div class="col-sm-3">
+                      <div class="row">
+                        <div class="form-group">
+                          <label for="inputCarteira">Usuário</label>
+                          <br>
+                          <input #usuariosCarteiraInput nbInput type="text" (input)="onUsuariosChange()"
+                            placeholder="Usuário" [nbAutocomplete]="autoUsuarios" />
+                          <nb-autocomplete [handleDisplayFn]="viewUsuariosHandle" #autoUsuarios
+                            (selectedChange)="onUsuariosSelectionChange($event)">
+                            <nb-option *ngFor="let usuario of filteredUsuarios$ | async" [value]="usuario">
+                              {{ usuario.fullName}}
+                            </nb-option>
+                          </nb-autocomplete>
+                          <ngx-validation-message label="Usuário" [showRequired]="usuarioId?.errors?.required">
+                          </ngx-validation-message>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-sm-3">
+                      <div class="form-group"> <br>
+                        <button [disabled]="!relatorioReuniaoForm.valid" status="success" style="float: right;" nbButton
+                          (click)="exportReuniao()">Exportar</button>
+                      </div>
+                    </div>
+                  </div>
+                </nb-card-body>
+              </nb-card>
+            </nb-tab>
+            <nb-tab tabTitle="Status das propostas">
+              <nb-card>
+                <nb-card-header>
+                  Filtros do relatório
+                </nb-card-header>
+                <nb-card-body>
+                  <div [formGroup]="relatorioPropostaForm" class="row">
+                    <div class="col-sm-3">
+                      <div class="row">
+                        <div class="form-group">
+                          <label for="inputPeriodoProposta">Período</label>
+                          <br>
+                          <input required formControlName="periodoProposta" nbInput placeholder="Período"
+                            [nbDatepicker]="rangepickerProposta">
+                          <nb-rangepicker #rangepickerProposta></nb-rangepicker>
+                          <ngx-validation-message label="Período" [showRequired]="periodoProposta?.errors?.required">
+                          </ngx-validation-message>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-sm-3">
+                      <div class="form-group">
+                        <label for="inputProjeto">Projeto</label>
+                        <br>
+                        <nb-select required formControlName="selectedProjetoProposta" placeholder="Projeto">
+                          <nb-option *ngFor="let projeto of projetos" [value]="projeto.id">
+                            {{ projeto.nome }}
+                          </nb-option>
+                        </nb-select>
+                        <ngx-validation-message label="Projeto"
+                          [showRequired]="selectedProjetoProposta?.errors?.required">
+                        </ngx-validation-message>
+                      </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="form-group">
+                        <label for="status">Status da Proposta</label>
+                        <br>
+                        <nb-select required formControlName="statusProposta" placeholder="Status">
+                          <nb-option *ngFor="let statusProposta of statusPropostaList" [value]="statusProposta.name">
+                            {{ statusProposta.name }}
+                          </nb-option>
+                        </nb-select>
+                        <ngx-validation-message label="Status da Proposta"
+                          [showRequired]="statusProposta?.errors?.required">
+                        </ngx-validation-message>
+                      </div>
+                    </div>
+                    <div class="col-sm-2">
+                      <div class="form-group"> <br>
+                        <button [disabled]="!relatorioPropostaForm.valid" status="success" style="float: right;"
+                          nbButton (click)="exportProposta()">Exportar</button>
+                      </div>
+                    </div>
+                  </div>
+                </nb-card-body>
+              </nb-card>
+            </nb-tab>
+            <!-- <nb-tab tabTitle="Clientes">
+              <nb-card>
+                <nb-card-header>
+                  Filtros do relatório
+                </nb-card-header>
+                <nb-card-body>
+                  <div [formGroup]="relatorioClienteForm" class="row">
+                    <div class="col-sm-3">
+                      <div class="row">
+                        <div class="form-group">
+                          <label for="inputPeriodo">Período</label>
+                          <br>
+                          <input formControlName="periodo" nbInput placeholder="Período" [nbDatepicker]="rangepicker">
+                          <nb-rangepicker #rangepicker></nb-rangepicker>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-sm-3">
+                      <div class="form-group">
+                        <label for="inputProjeto">Projeto</label>
+                        <br>
+                        <nb-select formControlName="selectedProjeto" placeholder="Projeto">
+                          <nb-option *ngFor="let projeto of projetos" [value]="projeto.id">
+                            {{ projeto.nome }}
+                          </nb-option>
+                        </nb-select>
+                      </div>
+                    </div>
+                    <div class="col-sm-3">
+                      <div class="form-group">
+                        <label for="inputCampos">Campos</label>
+                        <br>
+                        <nb-select [(selected)]="selectedFields" fullWidth multiple placeholder="Campos">
+                          <nb-option *ngFor="let field of fields" [value]="field">
+                            {{ field.propertyDescription }}
+                          </nb-option>
+                        </nb-select>
+                      </div>
+                    </div>
+                    <div class="col-sm-3">
+                      <div class="form-group"> <br>
+                        <button status="success" style="float: right;" nbButton
+                          (click)="exportToPdf()">Exportar</button>
+                      </div>
+                    </div>
+                  </div>
+                </nb-card-body>
+              </nb-card>
+            </nb-tab> -->
+          </nb-tabset>
+        </nb-card>
+      </div>
+    </div>
+  </nb-card-body>
+</nb-card>
+
+ 

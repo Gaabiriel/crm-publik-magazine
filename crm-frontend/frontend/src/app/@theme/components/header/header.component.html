@@ -1,0 +1,23 @@
+<div class="header-container">
+  <div class="logo-container">
+    <a (click)="toggleSidebar()" href="#" class="sidebar-toggle">
+      <nb-icon icon="menu-2-outline"></nb-icon>
+    </a>
+    <a class="logo" href="#" (click)="navigateHome()">Seja bem vindo ao CRM da Public!<span></span></a>
+  </div>
+</div>
+
+<div class="header-container">
+  <nb-actions>
+    <!-- <nb-action class="control-item" icon="email-outline"></nb-action> -->
+    <nb-action *ngIf="reunioes.length > 0" icon="bell-outline" [nbContextMenu]="reunioes"
+      badgeText="{{reunioes.length}}" badgePosition="top left" badgeStatus="info">
+    </nb-action>
+
+    <nb-action class="user-action">
+      <nb-user [nbContextMenu]="userMenu" color="#fae7e7" [onlyPicture]="userPictureOnly" size="giant"
+        [name]="user?.firstName" [title]="user?.role?.name">
+      </nb-user>
+    </nb-action>
+  </nb-actions>
+</div>

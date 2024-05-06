@@ -1,0 +1,33 @@
+<nb-card>
+  <nb-card-header>{{ title }}</nb-card-header>
+  <nb-card-body>
+    <div [formGroup]="projetoForm" class="container">
+
+      <div class="row">
+        <div class="col-lg-12">
+          <nb-card-body>
+            <div class="row">
+              <div class="col-sm-12">
+                <div class="form-group">
+                  <label for="nome">Nome</label>
+                  <input nbInput fullWidth id="nome" formControlName="nome"
+                    [status]="(nome?.hasError('minlength') || nome?.hasError('maxlength')) ? 'danger' : 'primary'"
+                    class="form-control" placeholder="Nome">
+                  <ngx-validation-message label="nome" [showMinLength]="nome?.hasError('minlength')"
+                    [showMaxLength]="nome?.hasError('maxlength')" minLength=3 maxLength=20>
+                  </ngx-validation-message>
+                </div>
+              </div>
+            </div>
+
+          </nb-card-body>
+        </div>
+      </div>
+
+    </div>
+  </nb-card-body>
+  <nb-card-footer>
+    <button nbButton status="primary" (click)="save()" hero>Salvar</button>
+    <button nbButton (click)="dismiss()" hero>Voltar</button>
+  </nb-card-footer>
+</nb-card>

@@ -1,0 +1,93 @@
+<nb-card>
+  <nb-card-header>{{ title }}</nb-card-header>
+  <nb-card-body>
+    <div [formGroup]="contatoForm" class="container">
+
+      <div class="row">
+        <div class="col-lg-12">
+          <nb-card-body>
+            <div class="row">
+
+              <div class="col-sm-3">
+                <div class="form-group">
+                  <label for="cargo">Cargo</label>
+                  <input nbInput fullWidth id="cargo" formControlName="cargo"
+                    [status]="(cargo?.hasError('minlength') || cargo?.hasError('maxlength')) ? 'danger' : 'primary'"
+                    class="form-control" placeholder="Cargo">
+                  <ngx-validation-message label="cargo" [showMinLength]="cargo?.hasError('minlength')"
+                    [showMaxLength]="cargo?.hasError('maxlength')" minLength=3 maxLength=20>
+                  </ngx-validation-message>
+                </div>
+
+
+              </div>
+              <div class="col-sm-6">
+                <div class="form-group">
+                  <label for="nome">Nome</label>
+                  <input nbInput fullWidth id="nome" formControlName="nome"
+                    [status]="(nome?.hasError('minlength') || nome?.hasError('maxlength')) ? 'danger' : 'primary'"
+                    class="form-control" placeholder="Nome">
+                  <ngx-validation-message label="nome" [showMinLength]="nome?.hasError('minlength')"
+                    [showMaxLength]="nome?.hasError('maxlength')" minLength=3 maxLength=20>
+                  </ngx-validation-message>
+                </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="form-group">
+                  <label for="celular">Celular</label>
+                  <input nbInput fullWidth id="celular" formControlName="celular"
+                    [status]="(celular?.hasError('minlength') || celular?.hasError('maxlength')) ? 'danger' : 'primary'"
+                    class="form-control" placeholder="Celular">
+                  <ngx-validation-message label="celular" [showMinLength]="celular?.hasError('minlength')"
+                    [showMaxLength]="celular?.hasError('maxlength')" minLength=3 maxLength=20>
+                  </ngx-validation-message>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+
+              <div class="col-sm-4">
+                <div class="form-group">
+                  <label for="telefoneFixo">Telefone Fixo</label>
+                  <input nbInput fullWidth id="telefoneFixo" formControlName="telefoneFixo"
+                    [status]="(telefoneFixo?.hasError('minlength') || telefoneFixo?.hasError('maxlength')) ? 'danger' : 'primary'"
+                    class="form-control" placeholder="Telefone Fixo">
+                  <ngx-validation-message label="telefoneFixo" [showMinLength]="telefoneFixo?.hasError('minlength')"
+                    [showMaxLength]="telefoneFixo?.hasError('maxlength')" minLength=3 maxLength=20>
+                  </ngx-validation-message>
+                </div>
+              </div>
+              <div class="col-sm-4">
+                <div class="form-group">
+                  <label for="inputEmail">E-mail</label>
+                  <input nbInput id="inputEmail" formControlName="email"
+                    [status]="(email?.errors?.required || email?.hasError('pattern')) && email.touched ? 'danger' : 'primary'"
+                    class="form-control" placeholder="E-mail">
+                  <ngx-validation-message label="E-mail" [showPattern]="email?.hasError('pattern') && email.touched"
+                    [showRequired]="email?.errors?.required && email.touched" min=1 max=120>
+                  </ngx-validation-message>
+                </div>
+
+              </div>
+              <div class="col-sm-4">
+                <div class="form-group">
+                  <label for="inputAniversario">Aniversário</label>
+                  <br>
+                  <input nbInput placeholder="Aniversário" formControlName="aniversario" [nbDatepicker]="datepicker">
+                  <nb-datepicker #datepicker></nb-datepicker>
+                </div>
+
+              </div>
+            </div>
+
+          </nb-card-body>
+        </div>
+      </div>
+
+    </div>
+  </nb-card-body>
+  <nb-card-footer>
+    <button nbButton status="primary" (click)="save()" hero>Salvar</button>
+    <button nbButton (click)="dismiss()" hero>Voltar</button>
+  </nb-card-footer>
+</nb-card>

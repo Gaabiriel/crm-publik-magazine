@@ -1,0 +1,66 @@
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\Common.Entities.deps.json
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\Common.Entities.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\Common.Entities.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Configuration.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Security.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Configuration.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Security.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.csproj.CopyComplete
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\Common.Entities.deps.json
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\Common.Entities.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\Common.Entities.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Configuration.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Security.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Configuration.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Security.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.csproj.CopyComplete
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\Common.Entities.deps.json
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\Common.Entities.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\Common.Entities.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Configuration.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Security.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Configuration.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Security.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\Common.Entities.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\Common.Entities.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\Common.Entities.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Configuration.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Security.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Configuration.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\bin\Release\netstandard2.0\System.Security.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.pdb

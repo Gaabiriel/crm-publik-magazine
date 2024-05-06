@@ -1,0 +1,140 @@
+<nb-card>
+  <nb-card-header>{{mode}} usuario</nb-card-header>
+  <nb-card-body>
+
+    <div [formGroup]="userForm" class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <nb-card-body>
+
+            <div class="row">
+
+              <div class="col-sm-6">
+                <div class="form-group">
+                  <label for="firstName">Nome</label>
+                  <input nbInput id="firstName" formControlName="firstName"
+                    [status]="(firstName?.hasError('minlength') || firstName?.hasError('maxlength')) ? 'danger' : 'primary'"
+                    class="form-control" placeholder="Nome">
+                  <ngx-validation-message label="Nome" [showMinLength]="firstName?.hasError('minlength')"
+                    [showMaxLength]="firstName?.hasError('maxlength')" minLength=3 maxLength=20>
+                  </ngx-validation-message>
+                </div>
+              </div>
+
+              <div class="col-sm-6">
+                <div class="form-group">
+                  <label for="lastName">Sobrenome</label>
+                  <input nbInput fullWidth id="lastName" formControlName="lastName"
+                    [status]="(lastName?.hasError('minlength') || lastName?.hasError('maxlength')) ? 'danger' : 'primary'"
+                    class="form-control" placeholder="Sobrenome">
+                  <ngx-validation-message label="Sobrenome" [showMinLength]="lastName?.hasError('minlength')"
+                    [showMaxLength]="lastName?.hasError('maxlength')" minLength=3 maxLength=20></ngx-validation-message>
+                </div>
+              </div>
+
+            </div>
+
+            <div class="row">
+
+              <!-- <div class="col-sm-5">
+                <div class="form-group">
+                  <label for="inputLogin">Login</label>
+                  <input nbInput fullWidth id="inputLogin" formControlName="login"
+                    [status]="(login?.errors?.required || login?.hasError('minlength') || login?.hasError('maxlength')) && login.touched ? 'danger' : 'primary'"
+                    class="form-control" placeholder="Login">
+                  <ngx-validation-message label="Login" [showMinLength]="login?.hasError('minlength')"
+                    [showMaxLength]="login?.hasError('maxlength')"
+                    [showRequired]="login?.errors?.required && login.touched" minLength=6 maxLength=20>
+                  </ngx-validation-message>
+                </div>
+              </div> -->
+
+              <div class="col-sm-5">
+                <div class="form-group">
+                  <label for="inputEmail">E-mail</label>
+                  <input nbInput id="inputEmail" formControlName="email"
+                    [status]="(email?.errors?.required || email?.hasError('pattern')) && email.touched ? 'danger' : 'primary'"
+                    class="form-control" placeholder="E-mail">
+                  <ngx-validation-message label="E-mail" [showPattern]="email?.hasError('pattern') && email.touched"
+                    [showRequired]="email?.errors?.required && email.touched" min=1 max=120></ngx-validation-message>
+                </div>
+              </div>
+              <div *ngIf="mode == 'Adicionar'" class="col-sm-4">
+                <div class="form-group">
+                  <label for="input-password">Senha</label>
+                  <input nbInput id="input-password" formControlName="password" type="text"
+                    [status]="password.dirty ? (password.invalid  ? 'danger' : 'success') : ''" placeholder="Senha">
+                  <ngx-validation-message label="Senha"
+                    [showMinLength]="password?.hasError('minlength') && password.touched"
+                    [showMaxLength]="password?.hasError('maxlength') && password.touched"
+                    [showRequired]="password?.errors?.required && password.touched" [minLength]="minLength"
+                    [maxLength]="maxLength">
+                  </ngx-validation-message>
+                </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="form-group">
+                  <label for="inputPerfil">Perfil</label>
+                  <br>
+                  <nb-select formControlName="roleId" placeholder="Perfil">
+                    <nb-option *ngFor="let role of perfis" [value]="role.id">
+                      {{ role.name }}
+                    </nb-option>
+                  </nb-select>
+                </div>
+              </div>
+
+            </div>
+
+            <div class="row">
+              <div class="col-sm-4">
+                <div class="form-group">
+                  <label for="inputTelefoneFixo">Telefone Fixo</label>
+                  <input nbInput id="inputTelefoneFixo" formControlName="telefoneFixo"
+                    [status]="(telefoneFixo?.errors?.required || telefoneFixo?.hasError('pattern')) && telefoneFixo.touched ? 'danger' : 'primary'"
+                    class="form-control" placeholder="Telefone Fixo">
+                  <ngx-validation-message label="Telefone Fixo"
+                    [showPattern]="telefoneFixo?.hasError('pattern') && telefoneFixo.touched"
+                    [showRequired]="telefoneFixo?.errors?.required && telefoneFixo.touched" min=1 max=120>
+                  </ngx-validation-message>
+                </div>
+              </div>
+              <div class="col-sm-4">
+                <div class="form-group">
+                  <label for="inputCelular">Celular</label>
+                  <input nbInput id="inputCelular" formControlName="celular"
+                    [status]="(celular?.errors?.required || celular?.hasError('pattern')) && celular.touched ? 'danger' : 'primary'"
+                    class="form-control" placeholder="Celular">
+                  <ngx-validation-message label="Celular"
+                    [showPattern]="celular?.hasError('pattern') && celular.touched"
+                    [showRequired]="celular?.errors?.required && celular.touched" min=1 max=120>
+                  </ngx-validation-message>
+                </div>
+              </div>
+              <div class="col-sm-4">
+                <div class="form-group">
+                  <label for="inputRegiao">Região</label>
+                  <input nbInput id="inputRegiao" formControlName="regiao"
+                    [status]="(regiao?.errors?.required || regiao?.hasError('pattern')) && regiao.touched ? 'danger' : 'primary'"
+                    class="form-control" placeholder="Região">
+                  <ngx-validation-message label="Região" [showPattern]="regiao?.hasError('pattern') && regiao.touched"
+                    [showRequired]="regiao?.errors?.required && regiao.touched" min=1 max=120>
+                  </ngx-validation-message>
+                </div>
+
+              </div>
+            </div>
+
+
+          </nb-card-body>
+        </div>
+      </div>
+
+    </div>
+
+  </nb-card-body>
+  <nb-card-footer>
+    <button nbButton status="primary" [disabled]="!userForm.valid" (click)="save()" hero>Salvar</button>
+    <button nbButton (click)="back()" hero>Voltar</button>
+  </nb-card-footer>
+</nb-card>

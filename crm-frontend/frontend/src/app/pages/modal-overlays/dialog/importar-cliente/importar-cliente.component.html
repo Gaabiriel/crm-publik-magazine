@@ -1,0 +1,22 @@
+<nb-card [nbSpinner]="loading" nbSpinnerStatus="success">
+  <nb-card-header>Importar Clientes</nb-card-header>
+  <nb-card-body>
+    <!-- <div [formGroup]="importarClienteForm"> -->
+    <label for="inputProjeto">Projeto</label>
+    <br>
+    <nb-select fullWidth [(ngModel)]="projetoId" placeholder="Projeto">
+      <nb-option *ngFor="let projeto of projetos" [value]="projeto.id">
+        {{ projeto.nome }}
+      </nb-option>
+    </nb-select>
+
+    <br>
+    <br>
+    <input nbInput type="file" #fileInput />
+
+  </nb-card-body>
+  <nb-card-footer>
+    <button nbButton status="primary" (click)="uploadFile()" hero>Importar</button>
+    <button nbButton (click)="cancel()" hero>Cancelar</button>
+  </nb-card-footer>
+</nb-card>

@@ -1,0 +1,205 @@
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Common.DIContainer.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Common.DIContainer.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\AutoMapper.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\AutoMapper.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\CsvHelper.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\EntityFramework.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Microsoft.Owin.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Owin.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\System.Buffers.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\System.Memory.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\System.Numerics.Vectors.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\System.ValueTuple.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\CommonServiceLocator.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\CommonServiceLocator.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Unity.Abstractions.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Unity.Abstractions.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Unity.Configuration.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Unity.Configuration.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Unity.Container.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Unity.Container.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.Configuration.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.Configuration.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Unity.RegistrationByConvention.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Unity.RegistrationByConvention.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Unity.ServiceLocation.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Unity.ServiceLocation.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Common.DataAccess.EntityFramework.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Common.Entities.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.Infrastructure.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Common.Utils.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Common.DTO.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Common.DataAccess.EntityFramework.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Common.Entities.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.Infrastructure.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Common.Utils.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\bin\Release\Common.DTO.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.csproj.CopyComplete
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DIContainer.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DIContainer.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\AutoMapper.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\AutoMapper.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\CsvHelper.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\EntityFramework.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Microsoft.Owin.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Owin.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Buffers.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Memory.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Numerics.Vectors.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.ValueTuple.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\CommonServiceLocator.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\CommonServiceLocator.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Abstractions.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Abstractions.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Configuration.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Configuration.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Container.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Container.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.Configuration.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.Configuration.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.RegistrationByConvention.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.RegistrationByConvention.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.ServiceLocation.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.ServiceLocation.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DataAccess.EntityFramework.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Entities.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.Infrastructure.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Utils.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DTO.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DataAccess.EntityFramework.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Entities.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.Infrastructure.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Utils.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DTO.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.csproj.CopyComplete
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DIContainer.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DIContainer.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\AutoMapper.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\AutoMapper.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\CsvHelper.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\EntityFramework.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Microsoft.Owin.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Owin.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Buffers.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Memory.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.ValueTuple.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\CommonServiceLocator.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\CommonServiceLocator.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Abstractions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Abstractions.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Configuration.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Configuration.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Container.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Container.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.Configuration.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.Configuration.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.RegistrationByConvention.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.RegistrationByConvention.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.ServiceLocation.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.ServiceLocation.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DataAccess.EntityFramework.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Entities.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.Infrastructure.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Utils.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DTO.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DataAccess.EntityFramework.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Entities.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.Infrastructure.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Utils.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DTO.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DIContainer.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DIContainer.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\AutoMapper.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\AutoMapper.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\CsvHelper.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\EntityFramework.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Microsoft.Owin.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Owin.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Buffers.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Memory.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Numerics.Vectors.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\System.ValueTuple.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\CommonServiceLocator.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\CommonServiceLocator.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Abstractions.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Configuration.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Configuration.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Container.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Container.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.Configuration.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.Configuration.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.Interception.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.RegistrationByConvention.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.RegistrationByConvention.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.ServiceLocation.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Unity.ServiceLocation.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Z.EntityFramework.Extensions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DataAccess.EntityFramework.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Entities.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.Infrastructure.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Utils.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DTO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DataAccess.EntityFramework.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Entities.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.Infrastructure.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Services.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.Utils.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\bin\Release\Common.DTO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.DIContainer\obj\Release\Common.DIContainer.pdb

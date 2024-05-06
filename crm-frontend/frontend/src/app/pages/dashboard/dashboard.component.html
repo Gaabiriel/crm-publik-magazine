@@ -1,0 +1,17 @@
+<!-- <div class="row">
+  {{welcomeMessage}}
+  <div class="col-xxxl-9 col-xl-12">
+    <mwl-calendar-event-component>Loading...</mwl-calendar-event-component>
+  </div>
+</div> -->
+<ngx-status-card [title]="welcomeCard.title" [type]="welcomeCard.type">
+  <i [ngClass]="welcomeCard.iconClass"></i>
+</ngx-status-card>
+
+<nb-card status="success">
+  <nb-card-body>
+    <div class="col-xxxl-9 col-xl-12">
+      <mwl-calendar-event-component>Loading...</mwl-calendar-event-component>
+    </div>
+  </nb-card-body>
+</nb-card>

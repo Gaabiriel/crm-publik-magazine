@@ -1,0 +1,816 @@
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.WebApi.dll.config
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.WebApi.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.WebApi.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\AutoMapper.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.DIContainer.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.DTO.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Entities.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.IdentityManagement.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Services.Infrastructure.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\CommonServiceLocator.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\EntityFramework.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Owin.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Serilog.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.MSSqlServer.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Swashbuckle.Core.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Security.AccessControl.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Security.Permissions.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Security.Principal.Windows.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.ValueTuple.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Cors.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Helpers.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Mvc.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Razor.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Abstractions.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Configuration.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Container.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Interception.Configuration.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Interception.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.RegistrationByConvention.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.ServiceLocation.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.WebApi.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\WebActivatorEx.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.DataAccess.EntityFramework.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Services.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Utils.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.DIContainer.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.DTO.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Entities.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.IdentityManagement.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Services.Infrastructure.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\AutoMapper.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\AutoMapper.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\CommonServiceLocator.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\EntityFramework.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Serilog.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Serilog.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.MSSqlServer.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.PeriodicBatching.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Security.AccessControl.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Security.Permissions.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Security.Principal.Windows.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.ValueTuple.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Helpers.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Mvc.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Razor.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Abstractions.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Configuration.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Container.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Interception.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Interception.Configuration.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.RegistrationByConvention.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.ServiceLocation.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.DataAccess.EntityFramework.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Services.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Utils.pdb
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.csprojAssemblyReference.cache
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.csproj.CopyComplete
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.dll
+C:\Users\gabri\Downloads\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.WebApi.dll.config
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.WebApi.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.WebApi.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\AutoMapper.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.DIContainer.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.DTO.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Entities.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.IdentityManagement.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Services.Infrastructure.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Utils.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\CommonServiceLocator.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\CsvHelper.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\EntityFramework.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\ExcelDataReader.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Owin.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Serilog.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.MSSqlServer.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Swashbuckle.Core.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Buffers.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Memory.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Numerics.Vectors.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Security.AccessControl.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Security.Permissions.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Security.Principal.Windows.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.ValueTuple.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Cors.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Helpers.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Mvc.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Razor.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Abstractions.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Configuration.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Container.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Interception.Configuration.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Interception.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.RegistrationByConvention.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.ServiceLocation.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.WebApi.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\WebActivatorEx.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.DataAccess.EntityFramework.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Services.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.DIContainer.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.DTO.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Entities.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.IdentityManagement.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Services.Infrastructure.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Utils.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\AutoMapper.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\AutoMapper.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\CommonServiceLocator.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\CsvHelper.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\EntityFramework.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\ExcelDataReader.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\ExcelDataReader.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Serilog.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Serilog.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.MSSqlServer.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.PeriodicBatching.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Buffers.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Memory.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Numerics.Vectors.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Security.AccessControl.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Security.Permissions.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Security.Principal.Windows.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.ValueTuple.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Helpers.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Mvc.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.Razor.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Abstractions.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Configuration.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Container.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Interception.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.Interception.Configuration.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.RegistrationByConvention.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Unity.ServiceLocation.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.DataAccess.EntityFramework.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\bin\Common.Services.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.csproj.CopyComplete
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\ngx-admin-dotnet-starter-master\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.WebApi.dll.config
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.WebApi.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.WebApi.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\AutoMapper.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DIContainer.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DTO.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Entities.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.IdentityManagement.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Services.Infrastructure.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Utils.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\CommonServiceLocator.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\CsvHelper.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EntityFramework.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\ExcelDataReader.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Owin.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.MSSqlServer.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Swashbuckle.Core.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Buffers.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Memory.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Numerics.Vectors.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.AccessControl.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.Permissions.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.Principal.Windows.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.ValueTuple.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Cors.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Helpers.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Mvc.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Razor.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Abstractions.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Configuration.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Container.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Interception.Configuration.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Interception.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.RegistrationByConvention.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.ServiceLocation.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.WebApi.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\WebActivatorEx.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DataAccess.EntityFramework.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Services.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DIContainer.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DTO.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Entities.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.IdentityManagement.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Services.Infrastructure.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Utils.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\AutoMapper.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\AutoMapper.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\CommonServiceLocator.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\CsvHelper.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EntityFramework.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\ExcelDataReader.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\ExcelDataReader.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.MSSqlServer.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.PeriodicBatching.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Buffers.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Memory.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Numerics.Vectors.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.AccessControl.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.Permissions.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.Principal.Windows.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.ValueTuple.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Helpers.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Mvc.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Razor.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Abstractions.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Configuration.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Container.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Interception.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Interception.Configuration.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.RegistrationByConvention.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.ServiceLocation.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DataAccess.EntityFramework.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Services.pdb
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.csproj.CopyComplete
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.dll
+C:\Users\gabri\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.WebApi.dll.config
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.WebApi.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.WebApi.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\AutoMapper.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DIContainer.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DTO.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Entities.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.IdentityManagement.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Services.Infrastructure.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Utils.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\CommonServiceLocator.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\CsvHelper.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EntityFramework.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\ExcelDataReader.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Owin.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.MSSqlServer.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Swashbuckle.Core.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Buffers.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Memory.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Numerics.Vectors.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.AccessControl.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.Permissions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.Principal.Windows.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.ValueTuple.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Cors.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Helpers.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Mvc.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Razor.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Abstractions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Configuration.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Container.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Interception.Configuration.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Interception.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.RegistrationByConvention.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.ServiceLocation.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.WebApi.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\WebActivatorEx.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DataAccess.EntityFramework.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Services.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DIContainer.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DTO.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Entities.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.IdentityManagement.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Services.Infrastructure.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Utils.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\AutoMapper.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\AutoMapper.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\CommonServiceLocator.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\CsvHelper.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EntityFramework.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\ExcelDataReader.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\ExcelDataReader.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.MSSqlServer.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.PeriodicBatching.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Buffers.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Memory.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Numerics.Vectors.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.AccessControl.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.Permissions.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.Principal.Windows.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.ValueTuple.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Helpers.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Mvc.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Razor.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Abstractions.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Configuration.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Container.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Interception.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Interception.Configuration.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.ServiceLocation.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DataAccess.EntityFramework.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Services.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EPPlus.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.ComponentModel.Annotations.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EPPlus.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Options.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Text.Encodings.Web.dll
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Options.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gabriel\Desktop\Gabriel\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Text.Encodings.Web.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.WebApi.dll.config
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.WebApi.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.WebApi.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\AutoMapper.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DIContainer.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DTO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Entities.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.IdentityManagement.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Services.Infrastructure.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Utils.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\CommonServiceLocator.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\CsvHelper.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EntityFramework.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EPPlus.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\ExcelDataReader.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Options.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Owin.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.MSSqlServer.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Swashbuckle.Core.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Buffers.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.ComponentModel.Annotations.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Memory.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Numerics.Vectors.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.AccessControl.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.Permissions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.Principal.Windows.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Text.Encodings.Web.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.ValueTuple.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Cors.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Helpers.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Mvc.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Razor.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Configuration.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Container.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Interception.Configuration.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Interception.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.RegistrationByConvention.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.ServiceLocation.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.WebApi.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\WebActivatorEx.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DataAccess.EntityFramework.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Services.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DIContainer.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DTO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Entities.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.IdentityManagement.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Services.Infrastructure.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Utils.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\AutoMapper.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\AutoMapper.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\CommonServiceLocator.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\CsvHelper.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EntityFramework.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\EPPlus.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\ExcelDataReader.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\ExcelDataReader.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Options.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.MSSqlServer.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Serilog.Sinks.PeriodicBatching.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Buffers.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Memory.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Numerics.Vectors.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.AccessControl.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.Permissions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Security.Principal.Windows.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Text.Encodings.Web.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.ValueTuple.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Helpers.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Mvc.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.Razor.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Abstractions.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Configuration.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Container.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Interception.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.Interception.Configuration.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.RegistrationByConvention.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Unity.ServiceLocation.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.DataAccess.EntityFramework.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Common.Services.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\obj\Debug\Common.WebApi.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Z.EntityFramework.Extensions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Text.Json.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.AspNetCore.StaticFiles.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Swashbuckle.AspNetCore.SwaggerUI.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Jobs\Pai\CRM\crm-backend\backend\src\Common\Common.WebApi\bin\System.Text.Json.xml

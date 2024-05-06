@@ -1,0 +1,248 @@
+<div class="col-12">
+  <nb-card size="">
+    <nb-tabset fullWidth (changeTab)="selectTab($event)">
+      
+      <nb-tab tabTitle="Empresa">
+        <div [formGroup]="clienteForm" class="container">
+
+          <div class="row">
+
+            <nb-card-body>
+              <div class="row">
+                <div class="col-sm-3">
+                  <div class="form-group">
+                    <label for="inputRegiao">Projeto</label>
+                    <br>
+                    <nb-select formControlName="projetoId" placeholder="Projeto">
+                      <nb-option *ngFor="let projeto of projetos" [value]="projeto.id">
+                        {{ projeto.nome }}
+                      </nb-option>
+                    </nb-select>
+                    <ngx-validation-message label="Projeto" [showRequired]="projetoId?.errors?.required">
+                    </ngx-validation-message>
+                  </div>
+                </div>
+                <div class="col-sm-3">
+                  <div class="row">
+                    <div class="form-group">
+                      <label for="inputCarteira">Carteira</label>
+                      <br>
+                      <input #usuariosCarteiraInput nbInput type="text" (input)="onUsuariosChange()"
+                        placeholder="Usuário" [nbAutocomplete]="autoUsuarios" />
+                      <nb-autocomplete [handleDisplayFn]="viewUsuariosHandle" #autoUsuarios
+                        (selectedChange)="onUsuariosSelectionChange($event)">
+                        <nb-option *ngFor="let usuario of filteredUsuarios$ | async" [value]="usuario">
+                          {{ usuario.fullName}}
+                        </nb-option>
+                      </nb-autocomplete>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-6">
+                  <div class="form-group">
+                    <label for="nomeFantasia">Nome Fantasia</label>
+                    <input nbInput fullWidth id="nomeFantasia" formControlName="nomeFantasia"
+                      [status]="(nomeFantasia?.hasError('minlength') || nomeFantasia?.hasError('maxlength')) ? 'danger' : 'primary'"
+                      class="form-control" placeholder="Nome Fantasia">
+                    <ngx-validation-message label="nomeFantasia" [showMinLength]="nomeFantasia?.hasError('minlength')"
+                      [showMaxLength]="nomeFantasia?.hasError('maxlength')" minLength=3 maxLength=20>
+                    </ngx-validation-message>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-6">
+                  <div class="form-group">
+                    <label for="razaoSocial">Razão Social</label>
+                    <input nbInput fullWidth id="razaoSocial" formControlName="razaoSocial"
+                      [status]="(razaoSocial?.hasError('minlength') || razaoSocial?.hasError('maxlength')) ? 'danger' : 'primary'"
+                      class="form-control" placeholder="Razão Social">
+                    <ngx-validation-message label="razaoSocial" [showMinLength]="razaoSocial?.hasError('minlength')"
+                      [showMaxLength]="razaoSocial?.hasError('maxlength')" minLength=3 maxLength=20>
+                    </ngx-validation-message>
+                  </div>
+                </div>
+                <div class="col-sm-4">
+                  <div class="form-group">
+                    <label for="cnpj">CNPJ</label>
+                    <input nbInput fullWidth id="cnpj" formControlName="cnpj"
+                      [status]="(cnpj?.hasError('minlength') || cnpj?.hasError('maxlength')) ? 'danger' : 'primary'"
+                      class="form-control" placeholder="CNPJ">
+                    <ngx-validation-message label="cnpj" [showMinLength]="cnpj?.hasError('minlength')"
+                      [showMaxLength]="cnpj?.hasError('maxlength')" minLength=3 maxLength=20></ngx-validation-message>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-3">
+                  <div class="form-group">
+                    <label for="inscricaoEstadual">Inscrição Estadual</label>
+                    <input nbInput fullWidth id="inscricaoEstadual" formControlName="inscricaoEstadual"
+                      [status]="(inscricaoEstadual?.hasError('minlength') || inscricaoEstadual?.hasError('maxlength')) ? 'danger' : 'primary'"
+                      class="form-control" placeholder="Inscrição Estadual">
+                    <ngx-validation-message label="inscricaoEstadual"
+                      [showMinLength]="inscricaoEstadual?.hasError('minlength')"
+                      [showMaxLength]="inscricaoEstadual?.hasError('maxlength')" minLength=3 maxLength=20>
+                    </ngx-validation-message>
+                  </div>
+                </div>
+                <div class="col-sm-3">
+                  <div class="form-group">
+                    <label for="telefoneFixo">Telefone Fixo</label>
+                    <input nbInput fullWidth id="telefoneFixo" formControlName="telefoneFixo"
+                      [status]="(telefoneFixo?.hasError('minlength') || telefoneFixo?.hasError('maxlength')) ? 'danger' : 'primary'"
+                      class="form-control" placeholder="Telefone Fixo">
+                    <ngx-validation-message label="telefoneFixo" [showMinLength]="telefoneFixo?.hasError('minlength')"
+                      [showMaxLength]="telefoneFixo?.hasError('maxlength')" minLength=3 maxLength=20>
+                    </ngx-validation-message>
+                  </div>
+                </div>
+                <div class="col-sm-3">
+                  <div class="form-group">
+                    <label for="inputEmail">E-mail</label>
+                    <input nbInput id="inputEmail" formControlName="email"
+                      [status]="(email?.errors?.required || email?.hasError('pattern')) && email.touched ? 'danger' : 'primary'"
+                      class="form-control" placeholder="E-mail">
+                    <ngx-validation-message label="E-mail" [showPattern]="email?.hasError('pattern') && email.touched"
+                      [showRequired]="email?.errors?.required && email.touched" min=1 max=120>
+                    </ngx-validation-message>
+                  </div>
+                </div>
+                <div class="col-sm-3">
+                  <div class="form-group">
+                    <label for="perfilEmpresa">Perfil Empresa</label>
+                    <br> 
+                    <nb-select fullWidth [selected]="perfilEmpresa" formControlName="perfilEmpresa"
+                      placeholder="Perfil Empresa">
+                      <nb-option *ngFor="let perfilEmpresa of perfilEmpresaOptions" [value]="perfilEmpresa.value">
+                        {{ perfilEmpresa.value }}
+                      </nb-option>
+                    </nb-select> 
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-5">
+                  <div class="form-group">
+                    <label for="endereco">Endereço</label>
+                    <input nbInput fullWidth id="endereco" formControlName="endereco"
+                      [status]="(endereco?.hasError('minlength') || endereco?.hasError('maxlength')) ? 'danger' : 'primary'"
+                      class="form-control" placeholder="Endereço">
+                    <ngx-validation-message label="endereco" [showMinLength]="endereco?.hasError('minlength')"
+                      [showMaxLength]="endereco?.hasError('maxlength')" minLength=3 maxLength=20>
+                    </ngx-validation-message>
+                  </div>
+                </div>
+                <div class="col-sm-3">
+                  <div class="form-group">
+                    <label for="cidade">Cidade</label>
+                    <input nbInput fullWidth id="cidade" formControlName="cidade"
+                      [status]="(cidade?.hasError('minlength') || cidade?.hasError('maxlength')) ? 'danger' : 'primary'"
+                      class="form-control" placeholder="Cidade">
+                    <ngx-validation-message label="cidade" [showMinLength]="cidade?.hasError('minlength')"
+                      [showMaxLength]="cidade?.hasError('maxlength')" minLength=3 maxLength=20>
+                    </ngx-validation-message>
+                  </div>
+                </div>
+                <div class="col-sm-1">
+                  <div class="form-group">
+                    <label for="uf">UF</label>
+                    <input nbInput fullWidth id="uf" formControlName="uf"
+                      [status]="(uf?.hasError('minlength') || uf?.hasError('maxlength')) ? 'danger' : 'primary'"
+                      class="form-control" placeholder="UF">
+                    <ngx-validation-message label="uf" [showMinLength]="uf?.hasError('minlength')"
+                      [showMaxLength]="uf?.hasError('maxlength')" minLength=3 maxLength=20></ngx-validation-message>
+                  </div>
+                </div>
+                <div class="col-sm-3">
+                  <div class="form-group">
+                    <label for="complemento">Feiras</label>
+                    <input nbInput fullWidth id="complemento" formControlName="complemento"
+                      [status]="(complemento?.hasError('minlength') || complemento?.hasError('maxlength')) ? 'danger' : 'primary'"
+                      class="form-control" placeholder="Feiras">
+                    <ngx-validation-message label="complemento" [showMinLength]="complemento?.hasError('minlength')"
+                      [showMaxLength]="complemento?.hasError('maxlength')" minLength=3 maxLength=20>
+                    </ngx-validation-message>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-2">
+                  <div class="form-group">
+                    <label for="cep">CEP</label>
+                    <input nbInput fullWidth id="cep" formControlName="cep"
+                      [status]="(cep?.hasError('minlength') || cep?.hasError('maxlength')) ? 'danger' : 'primary'"
+                      class="form-control" placeholder="CEP">
+                    <ngx-validation-message label="cep" [showMinLength]="cep?.hasError('minlength')"
+                      [showMaxLength]="cep?.hasError('maxlength')" minLength=3 maxLength=20></ngx-validation-message>
+                  </div>
+
+                </div>
+                <div class="col-sm-3">
+                  <div class="form-group">
+                    <label for="site">Site</label>
+                    <input nbInput fullWidth id="site" formControlName="site"
+                      [status]="(site?.hasError('minlength') || site?.hasError('maxlength')) ? 'danger' : 'primary'"
+                      class="form-control" placeholder="Site">
+                    <ngx-validation-message label="site" [showMinLength]="site?.hasError('minlength')"
+                      [showMaxLength]="site?.hasError('maxlength')" minLength=3 maxLength=20></ngx-validation-message>
+                  </div>
+                </div>
+                <div class="col-sm-3">
+                  <div class="form-group">
+                    <label for="inputRegiao">Data fundação</label>
+                    <br>
+                    <input formControlName="dataFundacao" nbInput placeholder="Data fundação"
+                      [nbDatepicker]="formpicker">
+                    <nb-datepicker #formpicker format="dd.MM.yyyy"></nb-datepicker>
+                  </div>
+                </div>
+                <div class="col-sm-2">
+                  <div class="form-group">
+                    <label for="associado">Associado</label>
+                    <input nbInput fullWidth id="associado" formControlName="associado"
+                      [status]="(associado?.hasError('minlength') || associado?.hasError('maxlength')) ? 'danger' : 'primary'"
+                      class="form-control" placeholder="Associado">
+                    <ngx-validation-message label="associado" [showMinLength]="associado?.hasError('minlength')"
+                      [showMaxLength]="associado?.hasError('maxlength')" minLength=3
+                      maxLength=20></ngx-validation-message>
+                  </div>
+                </div>
+                <div class="col-sm-2">
+                  <div class="form-group">
+                    <label for="atualizado">Atualizado</label>
+                    <input nbInput fullWidth id="associado" formControlName="atualizado"
+                      [status]="(atualizado?.hasError('minlength') || atualizado?.hasError('maxlength')) ? 'danger' : 'primary'"
+                      class="form-control" placeholder="Atualizado">
+                    <ngx-validation-message label="atualizado" [showMinLength]="atualizado?.hasError('minlength')"
+                      [showMaxLength]="atualizado?.hasError('maxlength')" minLength=3
+                      maxLength=20></ngx-validation-message>
+                  </div>
+                </div>
+              </div>
+            </nb-card-body>
+          </div>
+        </div>
+        <nb-card-footer>
+          <button *ngIf="!isEdit() && !isAdmin" nbButton status="primary" [disabled]="!clienteForm.valid"
+            (click)="enviarParaAprovacao()" hero>Enviar para
+            Aprovação</button>
+          <button *ngIf="isEdit() || isAdmin" nbButton status="primary" [disabled]="!clienteForm.valid" (click)="save()"
+            hero>Salvar</button>
+          <button nbButton (click)="back()" hero>Voltar</button>
+        </nb-card-footer>
+      </nb-tab>
+
+      <nb-tab tabTitle="Contatos" [disabled]="!canAccessContatoTab"> 
+          <ngx-contato-novo [clienteId]="this.clienteForm.controls['id'].value"></ngx-contato-novo>  
+      </nb-tab>
+      <nb-tab tabTitle="Propostas" [disabled]="!canAccessContatoTab">
+        <ngx-proposta-novo [clienteId]="this.clienteForm.controls['id'].value"></ngx-proposta-novo>
+      </nb-tab>
+      <nb-tab [active]="accessReuniaoFromCalendar" tabTitle="Anotações das Reuniões" [disabled]="!canAccessContatoTab">
+        <ngx-reuniao-novo [clienteId]="this.clienteForm.controls['id'].value">
+        </ngx-reuniao-novo>
+      </nb-tab>
+    </nb-tabset>
+  </nb-card>
+</div>
